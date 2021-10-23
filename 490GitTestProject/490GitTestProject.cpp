@@ -1,6 +1,6 @@
 /*
-  Samuel Bunker CSCE350 Copyright 2021
-  This program will take user input and create a binary search tree. The suer will be able to search for nodes in their tree, add new nodes, and delete nodes.
+  Samuel Bunker CSCE490 Copyright 2021
+  This program will take user input and create a binary search tree. The user will be able to search for nodes in their tree, add new nodes, and delete nodes.
  */
 
 #include <iostream>
