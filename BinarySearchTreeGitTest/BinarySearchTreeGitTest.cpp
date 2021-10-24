@@ -3,6 +3,7 @@
   This program will take user input and create a binary search tree. The user will be able to search for nodes in their tree, add new nodes, and delete nodes.
  */
 
+//testing
 #include <iostream>
 using namespace std;
 // struct creation for node in BST: contains a value, right child sub node and left child sub node
