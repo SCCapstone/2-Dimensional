@@ -1,3 +1,5 @@
+IMPORTANT: We are having trouble commiting UE4 projects to the repository. We have committed C++ project to demonstrate pushing to the repo. We will update the repo and read-me file when this issue is fixed. 
+
 # 2-Dimensional
 
 This is the Readme file for the 2D-video game we will be creating. This game will be a single player action RPG, where 
