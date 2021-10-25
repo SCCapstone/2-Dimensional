@@ -1,4 +1,4 @@
-IMPORTANT: We are having trouble commiting UE4 projects to the repository. We have committed C++ project to demonstrate pushing to the repo. We will update the repo and read-me file when this issue is fixed. 
+IMPORTANT: We are having trouble commiting UE4 projects to the repository. We have committed C++ project to demonstrate pushing to the repo. We will update the repo and read-me file when this issue is fixed. We will use Git LFS to solve this issue. 
 
 # 2-Dimensional
 
