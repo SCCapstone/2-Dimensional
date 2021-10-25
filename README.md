@@ -44,3 +44,8 @@ Max Coughty: coughm66@gmail.com
 Josh Sykes: jksykes@email.sc.edu
 Noah Snell: 
 Jonathan Duong: 
+
+## Coding Style
+
+Code with the Google C++ Style Guide
+https://google.github.io/styleguide/cppguide.html
