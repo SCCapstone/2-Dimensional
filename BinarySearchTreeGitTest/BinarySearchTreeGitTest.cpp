@@ -19,6 +19,7 @@ node* Insert(node* root, float value);
 bool Search(node* root, float search_value);
 node* MinNode(node* root);
 struct node* Delete(struct node* root, float delete_value);
+void PrintInOrder(node* Ptr);
 
 int main() {
     // default values for main function
@@ -41,6 +42,8 @@ int main() {
         case 0:
             cout << "PROGRAM HAS TERMINATED!" << endl;
             while_val = false;
+	    PrintInOrder(root);
+	    cout << endl;
             exit(0);
 
         case 1:
@@ -161,6 +164,26 @@ struct node* Delete(struct node* root, float search_value) {
         }
     }
     return root;
+}
+
+void PrintInOrder(node* Ptr)
+{
+	if(Ptr != NULL)
+	{
+		if(Ptr->left_child != NULL)
+		{
+			PrintInOrder(Ptr->left_child);
+		}
+		cout << Ptr->value << " ";
+		if(Ptr->right_child != NULL)
+		{
+			PrintInOrder(Ptr->right_child);
+		}
+	}
+	else
+	{
+		cout << "The tree is empty\n";
+	}
 }
 
 
