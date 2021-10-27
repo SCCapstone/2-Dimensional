@@ -3,7 +3,7 @@
   This program will take user input and create a binary search tree. The user will be able to search for nodes in their tree, add new nodes, and delete nodes.
  */
 
-
+ //This comment was made by Sam Bunker in an attempt to test the .gitignore file
  //This comment was made by Noah Snell on a new branch for the git milestone requirements.
 #include <iostream>
 using namespace std;
