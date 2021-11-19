@@ -39,7 +39,7 @@ None yet.
 
 ## Authors
 
-Samuel Bunker: sbunker@email.sc.edu
+Samuel Bunker: sbunker@email.sc.edu & spbunker10@gmail.com
 Max Coughty: coughm66@gmail.com
 Josh Sykes: jksykes@email.sc.edu
 Noah Snell: 
