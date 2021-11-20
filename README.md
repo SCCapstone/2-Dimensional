@@ -40,7 +40,7 @@ None yet.
 ## Authors
 
 Samuel Bunker: sbunker@email.sc.edu & spbunker10@gmail.com
-Max Coughty: coughm66@gmail.com
+Max Coughty: coughm66@gmail.com & coughtry@email.sc.edu
 Josh Sykes: jksykes@email.sc.edu
 Noah Snell: 
 Jonathan Duong: 
