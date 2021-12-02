@@ -30,4 +30,22 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
+	UPROPERTY(EditDefaultsOnly, Category = Projectile)
+		TSubclassOf<class AProjectile> Projectile;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Gameplay)
+		class USoundBase* FireSound;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Gameplay)
+		class UAnimMontage* FireAnimation;
+
+	class UAnimInstance* AnimInstance;
+
+	class UWorld* World;
+
+	FRotator SpawnRotation;
+
+	FVector SpawnLocation;
+
+	
 };
