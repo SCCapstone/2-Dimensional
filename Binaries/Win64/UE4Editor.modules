@@ -2,6 +2,10 @@
 	"BuildId": "17155196",
 	"Modules": 
 	{
+<<<<<<< HEAD
 		"Ophiuchus": "UE4Editor-Ophiuchus-4302.dll"
+=======
+		"Ophiuchus": "UE4Editor-Ophiuchus-6726.dll"
+>>>>>>> ad62220691386768372acc6ac3a605df2b007128
 	}
 }
