@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Ophiuchus.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{75DC4B10-7FA5-4A98-9B46-6366FF9D7736}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Ophiuchus.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\OphiuchusEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\GameConcepts.docx" />
+    <None Include="..\..\Ophiuchus Game Development Schedule.docx" />
+    <None Include="..\..\README.md" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{33461BB6-2440-45C3-89ED-FEADB6055434}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Ophiuchus">
+      <UniqueIdentifier>{57D373E9-83DE-40EB-8B98-021207339630}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Ophiuchus\Enemy.cpp">
+      <Filter>Source\Ophiuchus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ophiuchus\Enemy.h">
+      <Filter>Source\Ophiuchus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Ophiuchus\EnemySpawn.cpp">
+      <Filter>Source\Ophiuchus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ophiuchus\EnemySpawn.h">
+      <Filter>Source\Ophiuchus</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Ophiuchus\Ophiuchus.Build.cs">
+      <Filter>Source\Ophiuchus</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Ophiuchus\Ophiuchus.cpp">
+      <Filter>Source\Ophiuchus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ophiuchus\Ophiuchus.h">
+      <Filter>Source\Ophiuchus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Ophiuchus\OphiuchusGameModeBase.cpp">
+      <Filter>Source\Ophiuchus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ophiuchus\OphiuchusGameModeBase.h">
+      <Filter>Source\Ophiuchus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Ophiuchus\OphiuchusGameStateBase.cpp">
+      <Filter>Source\Ophiuchus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ophiuchus\OphiuchusGameStateBase.h">
+      <Filter>Source\Ophiuchus</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

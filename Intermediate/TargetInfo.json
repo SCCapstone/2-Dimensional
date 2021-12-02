@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Ophiuchus",
+			"Path": "G:\\UnrealGames\\Ophiuchus\\Source\\Ophiuchus.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "OphiuchusEditor",
+			"Path": "G:\\UnrealGames\\Ophiuchus\\Source\\OphiuchusEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
