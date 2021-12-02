@@ -39,7 +39,7 @@ None yet.
 
 ## Authors
 
-Samuel Bunker: sbunker@email.sc.edu & spbunker10@gmail.com
+Samuel Bunker: sbunker@email.sc.edu & spbunker10@gmail.com || Testing max git pull
 Max Coughty: coughm66@gmail.com & coughtry@email.sc.edu
 Josh Sykes: jksykes@email.sc.edu
 Noah Snell: 
