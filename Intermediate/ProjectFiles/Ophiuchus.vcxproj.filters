@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Ophiuchus.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{75DC4B10-7FA5-4A98-9B46-6366FF9D7736}</UniqueIdentifier>
+      <UniqueIdentifier>{2D54B132-50E4-4773-8200-44E33E2B2196}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Ophiuchus.Target.cs">
       <Filter>Source</Filter>
@@ -15,7 +15,7 @@
     <None Include="..\..\Ophiuchus Game Development Schedule.docx" />
     <None Include="..\..\README.md" />
     <Filter Include="Config">
-      <UniqueIdentifier>{33461BB6-2440-45C3-89ED-FEADB6055434}</UniqueIdentifier>
+      <UniqueIdentifier>{E3A12BF4-8C92-470C-9DC9-EA7EAD62A863}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Ophiuchus">
-      <UniqueIdentifier>{57D373E9-83DE-40EB-8B98-021207339630}</UniqueIdentifier>
+      <UniqueIdentifier>{F066BE5F-CABF-4916-9726-FC4B8146297D}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Ophiuchus\Enemy.cpp">
       <Filter>Source\Ophiuchus</Filter>
@@ -63,6 +63,12 @@
       <Filter>Source\Ophiuchus</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Ophiuchus\OphiuchusGameStateBase.h">
+      <Filter>Source\Ophiuchus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Ophiuchus\SpaceMan.cpp">
+      <Filter>Source\Ophiuchus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ophiuchus\SpaceMan.h">
       <Filter>Source\Ophiuchus</Filter>
     </ClInclude>
   </ItemGroup>

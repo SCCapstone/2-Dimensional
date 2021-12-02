@@ -9,3 +9,4 @@
 *.EngineShadowErrors.h.pch filter=lfs diff=lfs merge=lfs -text
 =======
 >>>>>>> ad62220691386768372acc6ac3a605df2b007128
+.ipch filter=lfs diff=lfs merge=lfs -text
