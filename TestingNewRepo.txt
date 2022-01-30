@@ -1,4 +1,0 @@
-git@github.com:SCCapstone/2-Dimensional.git
-
-
-tester
