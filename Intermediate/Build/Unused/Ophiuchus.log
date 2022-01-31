@@ -1,0 +1,12 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\Game\Ophiuchus).
+  Building OphiuchusEditor...
+  Using Visual Studio 2019 14.29.30137 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 16 processes...
+    [1/4] SpaceMan.cpp
+    [2/4] UE4Editor-Ophiuchus-0033.lib
+       Creating library D:\Game\Ophiuchus\Intermediate\Build\Win64\UE4Editor\Development\Ophiuchus\UE4Editor-Ophiuchus-0033.lib and object D:\Game\Ophiuchus\Intermediate\Build\Win64\UE4Editor\Development\Ophiuchus\UE4Editor-Ophiuchus-0033.exp
+    [3/4] UE4Editor-Ophiuchus-0033.dll
+       Creating library D:\Game\Ophiuchus\Intermediate\Build\Win64\UE4Editor\Development\Ophiuchus\UE4Editor-Ophiuchus-0033.suppressed.lib and object D:\Game\Ophiuchus\Intermediate\Build\Win64\UE4Editor\Development\Ophiuchus\UE4Editor-Ophiuchus-0033.suppressed.exp
+    [4/4] OphiuchusEditor.target
+  Total time in Parallel executor: 3.10 seconds
+  Total execution time: 3.67 seconds
