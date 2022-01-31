@@ -27,7 +27,15 @@ Unreal Engine 4 will compile the project to an executable file when instructed t
 
 ## Testing
 
-None yet.
+Behavioral Testing: 
+To run the behavioral test, first open the game. Under the content folder there is a new folder named "Behavior_Test". Open this folder and double click the map "FTEST_moves".
+Next, go to the "Window" tab in the top left corner of the screen. Scrool down to "Developer tools", and then click on "Session frontend". Next, go to the "Automation" tab. Unpack the "Project" tab, then unpack
+the "Functional Tests" tab. Finally, checkmark the "Game/Behavior_Test/FTEST_moves" box. Then you can click Start test.
+
+** The test will act like a user playing the game, and dodging up over an obstacle that would block your path. The test will pass after the player gets to the end of the level.
+
+The location of the behavioral test is in a new folder named "Behavior_Test". This is under the content folder of the game. Also, there is a new map/level (FTEST_moves) made 'specifically' for this level.
+The new map and new player controller are coded 'specifically' for the test.
 
 ## Testing Technology
 

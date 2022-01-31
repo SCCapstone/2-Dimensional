@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"D:\\Game\\Ophiuchus\\Source\\Ophiuchus\\Ophiuchus.Build.cs",
-		"D:\\Game\\Ophiuchus\\Source\\Ophiuchus.Target.cs",
-		"D:\\Game\\Ophiuchus\\Source\\OphiuchusEditor.Target.cs"
-	],
-	"EngineVersion": "4.27.0"
-}

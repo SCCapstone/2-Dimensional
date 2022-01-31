@@ -13,7 +13,9 @@ AOphiuchusGameModeBase::AOphiuchusGameModeBase() {
 
 }
 void AOphiuchusGameModeBase::BeginPlay() {
-	Super::BeginPlay(); 
+	UE_LOG(LogTemp, Warning, TEXT("Begin Play Test: Player will spawn next!"));
+	UE_LOG(LogTemp, Warning, TEXT("Player Spawned In!"));
+	Super::BeginPlay();
 	TArray<AActor*> TempActors;
 	UGameplayStatics::GetAllActorsOfClass(GetWorld(), AEnemySpawn::StaticClass(), TempActors);
 
@@ -30,7 +32,11 @@ void AOphiuchusGameModeBase::SpawnEnemy() {
 		FVector Loc = SpawnPoint->GetActorLocation();
 		FRotator Rot = SpawnPoint->GetActorRotation();
 		if (AEnemy* Enemy = GetWorld()->SpawnActor<AEnemy>(AOphiuchusGameModeBase::EnemyClass, Loc, Rot)) {
-			UE_LOG(LogTemp, Warning, TEXT("Alien Spawning"));
+			UE_LOG(LogTemp, Warning, TEXT("Alien Spawning!"));
+		}
+		else
+		{
+			UE_LOG(LogTemp, Warning, TEXT("Alien Did Not Spawn!"));
 		}
 	}
 }

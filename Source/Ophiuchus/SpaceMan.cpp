@@ -20,8 +20,6 @@ void ASpaceMan::BeginPlay()
 
 		HUD_Widget = CreateWidget(GetWorld(), HUD_Widget_Class);
 		HUD_Widget->AddToViewport();
-
-
 	}
 	
 }
