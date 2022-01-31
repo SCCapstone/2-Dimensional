@@ -37,6 +37,9 @@ the "Functional Tests" tab. Finally, checkmark the "Game/Behavior_Test/FTEST_mov
 The location of the behavioral test is in a new folder named "Behavior_Test". This is under the content folder of the game. Also, there is a new map/level (FTEST_moves) made 'specifically' for this level.
 The new map and new player controller are coded 'specifically' for the test.
 
+Unit Test:
+The most important unit test as of 1/31/22 tests to make sure that the program successfully spawns in an enemy sprite into the game and will push flags to the output log depending on whether this action was completed correctly. This test is located in Source/Ophiuchus/OphiuchusGameModeBase.cpp. To view this test, the Unreal Engine must be installed on version 4.27 or later. The contents of the main branch on this repository must also be accessible locally. Within Unreal Engine, open the Ophiuchus.uproject file to run the program. When the IDE is open and showing the current project, navigate to Content/Maps/NewMap.umap and open this file. Click the play button on the top-middle of the screen to preview the program. While the program is running, the output log will show flags determining if the enemies are spawning in correctly. 
+
 ## Testing Technology
 
 None yet.
