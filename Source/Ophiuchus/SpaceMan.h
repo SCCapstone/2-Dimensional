@@ -9,6 +9,7 @@
 
 #include "SpaceMan.generated.h"
 
+
 UCLASS()
 class OPHIUCHUS_API ASpaceMan : public AActor
 {

@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Ophiuchus.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{2D54B132-50E4-4773-8200-44E33E2B2196}</UniqueIdentifier>
+      <UniqueIdentifier>{D8AE6486-3587-4C6B-B304-54B7EE3205F1}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Ophiuchus.Target.cs">
       <Filter>Source</Filter>
@@ -11,11 +11,12 @@
     <None Include="..\..\Source\OphiuchusEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
     <None Include="..\..\GameConcepts.docx" />
     <None Include="..\..\Ophiuchus Game Development Schedule.docx" />
     <None Include="..\..\README.md" />
     <Filter Include="Config">
-      <UniqueIdentifier>{E3A12BF4-8C92-470C-9DC9-EA7EAD62A863}</UniqueIdentifier>
+      <UniqueIdentifier>{8EE1D256-A4C5-44AC-8C70-F95701C9CE43}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,8 +31,11 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Ophiuchus">
-      <UniqueIdentifier>{F066BE5F-CABF-4916-9726-FC4B8146297D}</UniqueIdentifier>
+      <UniqueIdentifier>{B105A868-0845-4C55-A593-D5951AB56481}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Ophiuchus\AiBeginPlay.cpp">
+      <Filter>Source\Ophiuchus</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\Ophiuchus\Enemy.cpp">
       <Filter>Source\Ophiuchus</Filter>
     </ClCompile>
@@ -44,6 +48,18 @@
     <ClInclude Include="..\..\Source\Ophiuchus\EnemySpawn.h">
       <Filter>Source\Ophiuchus</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\Ophiuchus\HealthBar.cpp">
+      <Filter>Source\Ophiuchus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ophiuchus\HealthBar.h">
+      <Filter>Source\Ophiuchus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Ophiuchus\moveAIdownleft.cpp">
+      <Filter>Source\Ophiuchus</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Ophiuchus\moveAIupright.cpp">
+      <Filter>Source\Ophiuchus</Filter>
+    </ClCompile>
     <None Include="..\..\Source\Ophiuchus\Ophiuchus.Build.cs">
       <Filter>Source\Ophiuchus</Filter>
     </None>
@@ -65,11 +81,48 @@
     <ClInclude Include="..\..\Source\Ophiuchus\OphiuchusGameStateBase.h">
       <Filter>Source\Ophiuchus</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\Ophiuchus\Projectile.cpp">
+      <Filter>Source\Ophiuchus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ophiuchus\Projectile.h">
+      <Filter>Source\Ophiuchus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Ophiuchus\RecurringChase.cpp">
+      <Filter>Source\Ophiuchus</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\Ophiuchus\SpaceMan.cpp">
       <Filter>Source\Ophiuchus</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Ophiuchus\SpaceMan.h">
       <Filter>Source\Ophiuchus</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\Ophiuchus\Update_Animation.cpp">
+      <Filter>Source\Ophiuchus</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Ophiuchus\updatingAIanimation.cpp">
+      <Filter>Source\Ophiuchus</Filter>
+    </ClCompile>
+    <Filter Include="Source\Ophiuchus\RoughDraft">
+      <UniqueIdentifier>{22CF6CD4-66BF-4875-A8B7-7E7DA76372BF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Ophiuchus\RoughDraft\Player">
+      <UniqueIdentifier>{DB1E0A80-4666-4C1B-A04B-7C45285E32FA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp">
+      <Filter>Source\Ophiuchus\RoughDraft\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Ophiuchus\RoughDraft\Player\characterBeginplay.cpp">
+      <Filter>Source\Ophiuchus\RoughDraft\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Ophiuchus\RoughDraft\Player\futureJumpmove.cpp">
+      <Filter>Source\Ophiuchus\RoughDraft\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Ophiuchus\RoughDraft\Player\movingRightleft.cpp">
+      <Filter>Source\Ophiuchus\RoughDraft\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Ophiuchus\RoughDraft\Player\movingUpdown.cpp">
+      <Filter>Source\Ophiuchus\RoughDraft\Player</Filter>
+    </ClCompile>
+    <None Include="cpp.hint" />
   </ItemGroup>
 </Project>

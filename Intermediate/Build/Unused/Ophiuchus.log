@@ -1,12 +1,1199 @@
-﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\Game\Ophiuchus).
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\Schoolwork\Capstone\2-Dimensional).
   Building OphiuchusEditor...
-  Using Visual Studio 2019 14.29.30137 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 4 actions with 16 processes...
-    [1/4] SpaceMan.cpp
-    [2/4] UE4Editor-Ophiuchus-0033.lib
-       Creating library D:\Game\Ophiuchus\Intermediate\Build\Win64\UE4Editor\Development\Ophiuchus\UE4Editor-Ophiuchus-0033.lib and object D:\Game\Ophiuchus\Intermediate\Build\Win64\UE4Editor\Development\Ophiuchus\UE4Editor-Ophiuchus-0033.exp
-    [3/4] UE4Editor-Ophiuchus-0033.dll
-       Creating library D:\Game\Ophiuchus\Intermediate\Build\Win64\UE4Editor\Development\Ophiuchus\UE4Editor-Ophiuchus-0033.suppressed.lib and object D:\Game\Ophiuchus\Intermediate\Build\Win64\UE4Editor\Development\Ophiuchus\UE4Editor-Ophiuchus-0033.suppressed.exp
-    [4/4] OphiuchusEditor.target
-  Total time in Parallel executor: 3.10 seconds
-  Total execution time: 3.67 seconds
+  Using Visual Studio 2019 14.29.30140 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 28 actions with 8 processes...
+    [1/28] movingRightleft.cpp
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\movingRightleft.cpp(1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\movingRightleft.cpp(1): error C2146: syntax error: missing ';' before identifier 'Object'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\movingRightleft.cpp(3): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\movingRightleft.cpp(8): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\movingRightleft.cpp(19): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\movingRightleft.cpp(20): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\movingRightleft.cpp(26): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\movingRightleft.cpp(30): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\movingRightleft.cpp(33): error C2177: constant too big
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\movingRightleft.cpp(40): error C2177: constant too big
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\movingRightleft.cpp(53): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\movingRightleft.cpp(64): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\movingRightleft.cpp(68): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\movingRightleft.cpp(72): error C2015: too many characters in constant
+    [2/28] movingUpdown.cpp
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\movingUpdown.cpp(1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\movingUpdown.cpp(1): error C2146: syntax error: missing ';' before identifier 'Object'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\movingUpdown.cpp(3): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\movingUpdown.cpp(8): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\movingUpdown.cpp(26): error C2041: illegal digit '8' for base '8'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\movingUpdown.cpp(41): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\movingUpdown.cpp(45): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\movingUpdown.cpp(52): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\movingUpdown.cpp(56): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\movingUpdown.cpp(59): error C2041: illegal digit '8' for base '8'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\movingUpdown.cpp(70): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\movingUpdown.cpp(99): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\movingUpdown.cpp(117): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\movingUpdown.cpp(118): error C2015: too many characters in constant
+    [3/28] futureJumpmove.cpp
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\futureJumpmove.cpp(1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\futureJumpmove.cpp(1): error C2146: syntax error: missing ';' before identifier 'Object'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\futureJumpmove.cpp(8): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\futureJumpmove.cpp(17): error C2177: constant too big
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\futureJumpmove.cpp(17): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\futureJumpmove.cpp(22): error C2177: constant too big
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\futureJumpmove.cpp(26): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\futureJumpmove.cpp(27): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\futureJumpmove.cpp(36): error C2015: too many characters in constant
+    [4/28] characterBeginplay.cpp
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterBeginplay.cpp(1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterBeginplay.cpp(1): error C2146: syntax error: missing ';' before identifier 'Object'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterBeginplay.cpp(2): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterBeginplay.cpp(7): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterBeginplay.cpp(15): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterBeginplay.cpp(16): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterBeginplay.cpp(19): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterBeginplay.cpp(25): error C2015: too many characters in constant
+    [5/28] AiBeginPlay.cpp
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\AiBeginPlay.cpp(1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\AiBeginPlay.cpp(1): error C2146: syntax error: missing ';' before identifier 'Object'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\AiBeginPlay.cpp(2): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\AiBeginPlay.cpp(7): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\AiBeginPlay.cpp(15): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\AiBeginPlay.cpp(16): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\AiBeginPlay.cpp(19): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\AiBeginPlay.cpp(25): error C2015: too many characters in constant
+    [6/28] characterAnimationupdate.cpp
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(1): error C2146: syntax error: missing ';' before identifier 'Object'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(2): error C2177: constant too big
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(9): error C2041: illegal digit '4' for base '2'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(9): error C2041: illegal digit '3' for base '2'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(9): error C2041: illegal digit '8' for base '2'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(9): error C2041: illegal digit '2' for base '2'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(9): error C2041: illegal digit '5' for base '2'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(9): error C2041: illegal digit '6' for base '2'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(17): error C2177: constant too big
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(18): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(19): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(22): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(28): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(29): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(32): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(38): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(39): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(43): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(47): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(51): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(55): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(59): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(63): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(72): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(73): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(76): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(102): error C2177: constant too big
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(106): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(110): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(111): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(111): error C2177: constant too big
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(117): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(122): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(133): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(134): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(137): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(142): error C2177: constant too big
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(142): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(143): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(151): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(163): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(168): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(176): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(177): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(183): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(184): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(187): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(191): error C2177: constant too big
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(192): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(200): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(201): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(207): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RoughDraft\Player\characterAnimationupdate.cpp(208): error C2015: too many characters in constant
+    [7/28] Enemy.cpp
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(16): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(17): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(18): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(19): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(28): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(37): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(50): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(61): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(62): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(63): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(75): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\EnemySpawn.h(11): error C2059: syntax error: 'user-defined literal'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\EnemySpawn.h(12): error C2059: syntax error: 'public'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\EnemySpawn.h(12): error C2143: syntax error: missing ';' before '{'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\EnemySpawn.h(12): error C2447: '{': missing function header (old-style formal list?)
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(16): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(17): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(18): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(19): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(28): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(37): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(50): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(61): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(62): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(63): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(75): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Enemy.h(11): error C2059: syntax error: 'user-defined literal'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Enemy.h(12): error C2059: syntax error: 'public'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Enemy.h(12): error C2143: syntax error: missing ';' before '{'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Enemy.h(12): error C2447: '{': missing function header (old-style formal list?)
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Enemy.cpp(8): error C2039: '{ctor}': is not a member of 'AEnemy'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Enemy.h(12): note: see declaration of 'AEnemy'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Enemy.cpp(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Enemy.cpp(10): error C4508: '{ctor}': function should return a value; 'void' return type assumed
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Enemy.cpp(13): error C2039: 'BeginPlay': is not a member of 'AEnemy'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Enemy.h(12): note: see declaration of 'AEnemy'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Enemy.cpp(14): error C2653: 'Super': is not a class or namespace name
+    [8/28] EnemySpawn.cpp
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(16): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(17): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(18): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(19): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(28): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(37): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(50): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(61): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(62): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(63): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(75): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\EnemySpawn.h(11): error C2059: syntax error: 'user-defined literal'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\EnemySpawn.h(12): error C2059: syntax error: 'public'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\EnemySpawn.h(12): error C2143: syntax error: missing ';' before '{'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\EnemySpawn.h(12): error C2447: '{': missing function header (old-style formal list?)
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(16): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(17): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(18): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(19): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(28): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(37): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(50): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(61): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(62): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(63): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(75): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Enemy.h(11): error C2059: syntax error: 'user-defined literal'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Enemy.h(12): error C2059: syntax error: 'public'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Enemy.h(12): error C2143: syntax error: missing ';' before '{'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Enemy.h(12): error C2447: '{': missing function header (old-style formal list?)
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\EnemySpawn.cpp(7): error C2039: '{ctor}': is not a member of 'AEnemySpawn'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\EnemySpawn.h(12): note: see declaration of 'AEnemySpawn'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\EnemySpawn.cpp(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\EnemySpawn.cpp(9): error C4508: '{ctor}': function should return a value; 'void' return type assumed
+    [9/28] moveAIdownleft.cpp
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(1): error C2146: syntax error: missing ';' before identifier 'Object'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(8): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(9): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(14): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(21): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(22): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(22): error C2041: illegal digit '9' for base '8'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(27): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(31): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(32): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(34): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(37): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(41): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(42): error C2041: illegal digit '9' for base '8'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(42): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(49): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(50): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(55): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(59): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(60): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(68): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(72): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(73): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(74): error C2041: illegal digit '9' for base '8'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(80): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(84): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(86): error C2041: illegal digit '9' for base '8'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(87): error C2177: constant too big
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(91): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(95): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(96): error C2177: constant too big
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(107): error C2177: constant too big
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(116): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(117): error C2177: constant too big
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(117): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(126): error C2177: constant too big
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(128): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(129): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(131): error C2177: constant too big
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(138): error C2059: syntax error: 'bad suffix on number'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(138): error C2153: integer literals must have at least one digit
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(147): error C2059: syntax error: 'bad suffix on number'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(147): error C2153: integer literals must have at least one digit
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIdownleft.cpp(148): error C2015: too many characters in constant
+    [10/28] moveAIupright.cpp
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(1): error C2146: syntax error: missing ';' before identifier 'Object'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(2): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(9): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(10): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(10): error C2041: illegal digit '9' for base '8'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(15): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(19): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(20): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(22): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(25): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(29): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(30): error C2041: illegal digit '9' for base '8'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(30): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(37): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(38): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(43): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(47): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(48): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(56): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(60): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(61): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(62): error C2041: illegal digit '9' for base '8'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(68): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(72): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(74): error C2041: illegal digit '9' for base '8'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(75): error C2177: constant too big
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(79): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(83): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(84): error C2177: constant too big
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(95): error C2177: constant too big
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(104): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(105): error C2177: constant too big
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(105): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(114): error C2177: constant too big
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(116): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(117): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(119): error C2177: constant too big
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(128): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(129): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(138): error C2059: syntax error: 'bad suffix on number'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(138): error C2153: integer literals must have at least one digit
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(147): error C2059: syntax error: 'bad suffix on number'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(147): error C2153: integer literals must have at least one digit
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\moveAIupright.cpp(148): error C2015: too many characters in constant
+    [11/28] RecurringChase.cpp
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(1): error C2146: syntax error: missing ';' before identifier 'Object'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(2): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(7): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(12): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(19): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(20): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(26): error C2041: illegal digit '2' for base '2'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(26): error C2041: illegal digit '4' for base '2'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(26): error C2041: illegal digit '7' for base '2'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(26): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(34): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(46): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(51): error C2177: constant too big
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(53): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(54): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(59): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(63): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(64): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(66): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(69): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(73): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(74): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(79): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(83): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(84): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(87): error C2177: constant too big
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(92): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(96): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(97): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(106): error C2041: illegal digit '3' for base '2'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(106): error C2041: illegal digit '7' for base '2'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(107): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(108): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(112): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(116): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(118): error C2177: constant too big
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(123): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(127): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\RecurringChase.cpp(136): error C2177: constant too big
+    [12/28] Update_Animation.cpp
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Update_Animation.cpp(2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Update_Animation.cpp(2): error C2146: syntax error: missing ';' before identifier 'Object'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Update_Animation.cpp(7): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Update_Animation.cpp(15): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Update_Animation.cpp(16): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Update_Animation.cpp(19): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Update_Animation.cpp(25): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Update_Animation.cpp(26): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Update_Animation.cpp(36): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Update_Animation.cpp(37): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Update_Animation.cpp(41): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Update_Animation.cpp(45): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Update_Animation.cpp(46): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Update_Animation.cpp(51): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Update_Animation.cpp(55): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Update_Animation.cpp(58): error C2059: syntax error: 'bad suffix on number'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Update_Animation.cpp(58): error C2153: integer literals must have at least one digit
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Update_Animation.cpp(64): error C2177: constant too big
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Update_Animation.cpp(65): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Update_Animation.cpp(66): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Update_Animation.cpp(67): error C2059: syntax error: 'bad suffix on number'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Update_Animation.cpp(67): error C2153: integer literals must have at least one digit
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Update_Animation.cpp(68): error C2015: too many characters in constant
+    [13/28] OphiuchusGameStateBase.cpp
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.generated.h(16): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.generated.h(17): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.generated.h(18): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.generated.h(19): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.generated.h(28): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.generated.h(37): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.generated.h(50): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.generated.h(61): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.generated.h(62): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.generated.h(63): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.generated.h(75): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameStateBase.h(13): error C2059: syntax error: 'user-defined literal'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameStateBase.h(14): error C2059: syntax error: 'public'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameStateBase.h(14): error C2143: syntax error: missing ';' before '{'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameStateBase.h(14): error C2447: '{': missing function header (old-style formal list?)
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameStateBase.cpp(7): error C2039: '{ctor}': is not a member of 'AOphiuchusGameStateBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameStateBase.h(14): note: see declaration of 'AOphiuchusGameStateBase'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameStateBase.cpp(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameStateBase.cpp(9): error C4508: '{ctor}': function should return a value; 'void' return type assumed
+    [14/28] updatingAIanimation.cpp
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(1): error C2146: syntax error: missing ';' before identifier 'Object'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(9): error C2041: illegal digit '4' for base '2'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(9): error C2041: illegal digit '3' for base '2'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(9): error C2041: illegal digit '8' for base '2'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(9): error C2041: illegal digit '2' for base '2'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(9): error C2041: illegal digit '5' for base '2'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(9): error C2041: illegal digit '6' for base '2'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(18): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(19): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(22): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(28): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(29): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(32): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(38): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(39): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(43): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(47): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(51): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(55): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(59): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(63): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(72): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(73): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(76): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(92): error C2041: illegal digit '8' for base '8'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(102): error C2177: constant too big
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(106): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(110): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(111): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(111): error C2177: constant too big
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(123): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(124): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(127): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(132): error C2177: constant too big
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(132): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(133): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(141): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(153): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(158): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(166): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(167): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(173): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(174): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(177): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(181): error C2177: constant too big
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(182): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(190): error C2015: too many characters in constant
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\updatingAIanimation.cpp(191): error C2015: too many characters in constant
+    [15/28] Projectile.cpp
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.generated.h(19): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.generated.h(20): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.generated.h(25): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.generated.h(30): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.generated.h(39): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.generated.h(48): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.generated.h(61): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.generated.h(72): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.generated.h(73): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.generated.h(74): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.generated.h(86): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.h(13): error C2059: syntax error: 'user-defined literal'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.h(14): error C2059: syntax error: 'public'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.h(15): error C2143: syntax error: missing ';' before '{'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.h(15): error C2447: '{': missing function header (old-style formal list?)
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.cpp(10): error C2039: '{ctor}': is not a member of 'AProjectile'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.h(14): note: see declaration of 'AProjectile'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.cpp(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.cpp(13): error C2065: 'PrimaryActorTick': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.cpp(15): error C2065: 'CollisionSphere': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.cpp(15): error C2065: 'CreateDefaultSubobject': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.cpp(15): error C2275: 'USphereComponent': illegal use of this type as an expression
+    D:\IDE\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h(17): note: see declaration of 'USphereComponent'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.cpp(16): error C2065: 'CollisionSphere': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.cpp(18): error C2065: 'RootComponent': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.cpp(18): error C2065: 'CollisionSphere': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.cpp(20): error C2065: 'ProjectileMovement': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.cpp(21): error C2065: 'CreateDefaultSubobject': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.cpp(21): error C2275: 'UProjectileMovementComponent': illegal use of this type as an expression
+    D:\IDE\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h(22): note: see declaration of 'UProjectileMovementComponent'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.cpp(22): error C2065: 'ProjectileMovement': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.cpp(22): error C2065: 'CollisionSphere': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.cpp(23): error C2065: 'ProjectileMovement': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.cpp(24): error C2065: 'ProjectileMovement': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.cpp(25): error C2065: 'ProjectileMovement': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.cpp(26): error C2065: 'ProjectileMovement': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.cpp(28): error C2065: 'InitialLifeSpan': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.cpp(31): error C4508: '{ctor}': function should return a value; 'void' return type assumed
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.cpp(34): error C2039: 'BeginPlay': is not a member of 'AProjectile'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.h(14): note: see declaration of 'AProjectile'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.cpp(36): error C2653: 'Super': is not a class or namespace name
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.cpp(38): error C2065: 'CollisionSphere': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.cpp(38): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.cpp(38): error C2039: 'OnHit': is not a member of 'AProjectile'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.h(14): note: see declaration of 'AProjectile'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.cpp(38): error C2065: 'OnHit': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.cpp(42): error C2039: 'Tick': is not a member of 'AProjectile'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.h(14): note: see declaration of 'AProjectile'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.cpp(44): error C2653: 'Super': is not a class or namespace name
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.cpp(48): error C2039: 'OnHit': is not a member of 'AProjectile'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Projectile.h(14): note: see declaration of 'AProjectile'
+    [16/28] Enemy.gen.cpp
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(16): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(17): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(18): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(19): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(28): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(37): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(50): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(61): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(62): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(63): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(75): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\EnemySpawn.h(11): error C2059: syntax error: 'user-defined literal'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\EnemySpawn.h(12): error C2059: syntax error: 'public'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\EnemySpawn.h(12): error C2143: syntax error: missing ';' before '{'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\EnemySpawn.h(12): error C2447: '{': missing function header (old-style formal list?)
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(16): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(17): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(18): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(19): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(28): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(37): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(50): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(61): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(62): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(63): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(75): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Enemy.h(11): error C2059: syntax error: 'user-defined literal'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Enemy.h(12): error C2059: syntax error: 'public'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Enemy.h(12): error C2143: syntax error: missing ';' before '{'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Enemy.h(12): error C2447: '{': missing function header (old-style formal list?)
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(21): error C2039: 'StaticRegisterNativesAEnemy': is not a member of 'AEnemy'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Enemy.h(12): note: see declaration of 'AEnemy'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(26): error C2039: 'StaticClass': is not a member of 'AEnemy'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Enemy.h(12): note: see declaration of 'AEnemy'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(26): error C2672: 'StaticClass': no matching overloaded function found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(26): error C2783: 'UClass *StaticClass(void)': could not deduce template argument for 'ClassType'
+    D:\IDE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h(13): note: see declaration of 'StaticClass'
+D:\IDE\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsAbstract.h(11): error C2139: 'AEnemy': an undefined class is not allowed as an argument to compiler intrinsic type trait '__is_abstract'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Enemy.h(12): note: see declaration of 'AEnemy'
+    D:\IDE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/Class.h(2526): note: see reference to class template instantiation 'TIsAbstract<CPPCLASS>' being compiled
+            with
+            [
+                CPPCLASS=AEnemy
+            ]
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(48): note: see reference to class template instantiation 'TCppClassTypeTraits<AEnemy>' being compiled
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(51): error C2039: 'StaticClass': is not a member of 'AEnemy'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Enemy.h(12): note: see declaration of 'AEnemy'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(51): error C2440: 'initializing': cannot convert from 'overloaded-function' to 'UClass *(__cdecl *)(void)'
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(51): note: None of the functions with this name in scope match the target type
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(74): error C2027: use of undefined type 'AEnemy'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Enemy.h(12): note: see declaration of 'AEnemy'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(74): error C2039: 'GetPrivateStaticClass': is not a member of 'AEnemy'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Enemy.h(12): note: see declaration of 'AEnemy'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(74): error C3861: 'StaticPackage': identifier not found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(74): error C2065: 'StaticClassFlags': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(74): error C2039: 'StaticClassFlags': is not a member of 'AEnemy'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Enemy.h(12): note: see declaration of 'AEnemy'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(74): error C2039: 'StaticClassCastFlags': is not a member of 'AEnemy'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Enemy.h(12): note: see declaration of 'AEnemy'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(74): error C3861: 'StaticClassCastFlags': identifier not found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(74): error C2039: 'StaticConfigName': is not a member of 'AEnemy'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Enemy.h(12): note: see declaration of 'AEnemy'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(74): error C3861: 'StaticConfigName': identifier not found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(74): error C2039: 'AddReferencedObjects': is not a member of 'AEnemy'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Enemy.h(12): note: see declaration of 'AEnemy'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(74): error C2065: 'AddReferencedObjects': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(74): error C3083: 'Super': the symbol to the left of a '::' must be a type
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(74): error C2039: 'StaticClass': is not a member of 'AEnemy'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Enemy.h(12): note: see declaration of 'AEnemy'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(74): error C3083: 'WithinClass': the symbol to the left of a '::' must be a type
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(77): error C2039: 'StaticClass': is not a member of 'AEnemy'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Enemy.h(12): note: see declaration of 'AEnemy'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(77): error C2672: 'StaticClass': no matching overloaded function found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(77): error C2783: 'UClass *StaticClass(void)': could not deduce template argument for 'ClassType'
+    D:\IDE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h(13): note: see declaration of 'StaticClass'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(79): error C2039: 'StaticClass': is not a member of 'AEnemy'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Enemy.h(12): note: see declaration of 'AEnemy'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(79): error C2664: 'FCompiledInDefer::FCompiledInDefer(UClass *(__cdecl *)(void),UClass *(__cdecl *)(void),const TCHAR *,const TCHAR *,bool,const TCHAR *,const TCHAR *,void (__cdecl *)(TMap<FName,FName,FDefaultSetAllocator,TDefaultMapHashableKeyFuncs<KeyType,ValueType,false>> &))': cannot convert argument 2 from 'UClass *(__cdecl *)(void)' to 'UClass *(__cdecl *)(void)'
+            with
+            [
+                KeyType=FName,
+                ValueType=FName
+            ]
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(79): note: None of the functions with this name in scope match the target type
+    D:\IDE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBase.h(316): note: see declaration of 'FCompiledInDefer::FCompiledInDefer'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(80): error C2039: '{ctor}': is not a member of 'AEnemy'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Enemy.h(12): note: see declaration of 'AEnemy'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(80): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(80): error C2550: '{ctor}': constructor initializer lists are only allowed on constructor definitions
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.gen.cpp(80): error C4508: '{ctor}': function should return a value; 'void' return type assumed
+    [17/28] EnemySpawn.gen.cpp
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(16): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(17): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(18): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(19): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(28): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(37): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(50): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(61): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(62): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(63): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(75): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/EnemySpawn.h(11): error C2059: syntax error: 'user-defined literal'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/EnemySpawn.h(12): error C2059: syntax error: 'public'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/EnemySpawn.h(12): error C2143: syntax error: missing ';' before '{'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/EnemySpawn.h(12): error C2447: '{': missing function header (old-style formal list?)
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(21): error C2039: 'StaticRegisterNativesAEnemySpawn': is not a member of 'AEnemySpawn'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/EnemySpawn.h(12): note: see declaration of 'AEnemySpawn'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(26): error C2039: 'StaticClass': is not a member of 'AEnemySpawn'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/EnemySpawn.h(12): note: see declaration of 'AEnemySpawn'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(26): error C2672: 'StaticClass': no matching overloaded function found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(26): error C2783: 'UClass *StaticClass(void)': could not deduce template argument for 'ClassType'
+    D:\IDE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h(13): note: see declaration of 'StaticClass'
+D:\IDE\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsAbstract.h(11): error C2139: 'AEnemySpawn': an undefined class is not allowed as an argument to compiler intrinsic type trait '__is_abstract'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/EnemySpawn.h(12): note: see declaration of 'AEnemySpawn'
+    D:\IDE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/Class.h(2526): note: see reference to class template instantiation 'TIsAbstract<CPPCLASS>' being compiled
+            with
+            [
+                CPPCLASS=AEnemySpawn
+            ]
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(48): note: see reference to class template instantiation 'TCppClassTypeTraits<AEnemySpawn>' being compiled
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(51): error C2039: 'StaticClass': is not a member of 'AEnemySpawn'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/EnemySpawn.h(12): note: see declaration of 'AEnemySpawn'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(51): error C2440: 'initializing': cannot convert from 'overloaded-function' to 'UClass *(__cdecl *)(void)'
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(51): note: None of the functions with this name in scope match the target type
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(74): error C2027: use of undefined type 'AEnemySpawn'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/EnemySpawn.h(12): note: see declaration of 'AEnemySpawn'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(74): error C2039: 'GetPrivateStaticClass': is not a member of 'AEnemySpawn'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/EnemySpawn.h(12): note: see declaration of 'AEnemySpawn'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(74): error C3861: 'StaticPackage': identifier not found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(74): error C2065: 'StaticClassFlags': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(74): error C2039: 'StaticClassFlags': is not a member of 'AEnemySpawn'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/EnemySpawn.h(12): note: see declaration of 'AEnemySpawn'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(74): error C2039: 'StaticClassCastFlags': is not a member of 'AEnemySpawn'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/EnemySpawn.h(12): note: see declaration of 'AEnemySpawn'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(74): error C3861: 'StaticClassCastFlags': identifier not found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(74): error C2039: 'StaticConfigName': is not a member of 'AEnemySpawn'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/EnemySpawn.h(12): note: see declaration of 'AEnemySpawn'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(74): error C3861: 'StaticConfigName': identifier not found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(74): error C2039: 'AddReferencedObjects': is not a member of 'AEnemySpawn'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/EnemySpawn.h(12): note: see declaration of 'AEnemySpawn'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(74): error C2065: 'AddReferencedObjects': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(74): error C3083: 'Super': the symbol to the left of a '::' must be a type
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(74): error C2039: 'StaticClass': is not a member of 'AEnemySpawn'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/EnemySpawn.h(12): note: see declaration of 'AEnemySpawn'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(74): error C3083: 'WithinClass': the symbol to the left of a '::' must be a type
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(77): error C2039: 'StaticClass': is not a member of 'AEnemySpawn'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/EnemySpawn.h(12): note: see declaration of 'AEnemySpawn'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(77): error C2672: 'StaticClass': no matching overloaded function found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(77): error C2783: 'UClass *StaticClass(void)': could not deduce template argument for 'ClassType'
+    D:\IDE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h(13): note: see declaration of 'StaticClass'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(79): error C2039: 'StaticClass': is not a member of 'AEnemySpawn'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/EnemySpawn.h(12): note: see declaration of 'AEnemySpawn'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(79): error C2664: 'FCompiledInDefer::FCompiledInDefer(UClass *(__cdecl *)(void),UClass *(__cdecl *)(void),const TCHAR *,const TCHAR *,bool,const TCHAR *,const TCHAR *,void (__cdecl *)(TMap<FName,FName,FDefaultSetAllocator,TDefaultMapHashableKeyFuncs<KeyType,ValueType,false>> &))': cannot convert argument 2 from 'UClass *(__cdecl *)(void)' to 'UClass *(__cdecl *)(void)'
+            with
+            [
+                KeyType=FName,
+                ValueType=FName
+            ]
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(79): note: None of the functions with this name in scope match the target type
+    D:\IDE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBase.h(316): note: see declaration of 'FCompiledInDefer::FCompiledInDefer'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(80): error C2039: '{ctor}': is not a member of 'AEnemySpawn'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/EnemySpawn.h(12): note: see declaration of 'AEnemySpawn'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(80): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(80): error C2550: '{ctor}': constructor initializer lists are only allowed on constructor definitions
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.gen.cpp(80): error C4508: '{ctor}': function should return a value; 'void' return type assumed
+    [18/28] OphiuchusGameModeBase.cpp
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.generated.h(16): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.generated.h(17): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.generated.h(18): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.generated.h(19): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.generated.h(28): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.generated.h(37): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.generated.h(50): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.generated.h(61): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.generated.h(65): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.generated.h(66): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.generated.h(78): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.h(14): error C2059: syntax error: 'user-defined literal'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.h(15): error C2059: syntax error: 'public'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.h(15): error C2143: syntax error: missing ';' before '{'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.h(15): error C2447: '{': missing function header (old-style formal list?)
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(16): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(17): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(18): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(19): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(28): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(37): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(50): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(61): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(62): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(63): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\EnemySpawn.generated.h(75): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\EnemySpawn.h(11): error C2059: syntax error: 'user-defined literal'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\EnemySpawn.h(12): error C2059: syntax error: 'public'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\EnemySpawn.h(12): error C2143: syntax error: missing ';' before '{'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\EnemySpawn.h(12): error C2447: '{': missing function header (old-style formal list?)
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(16): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(17): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(18): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(19): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(28): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(37): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(50): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(61): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(62): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(63): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Enemy.generated.h(75): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Enemy.h(11): error C2059: syntax error: 'user-defined literal'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Enemy.h(12): error C2059: syntax error: 'public'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Enemy.h(12): error C2143: syntax error: missing ';' before '{'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\Enemy.h(12): error C2447: '{': missing function header (old-style formal list?)
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.cpp(12): error C2039: '{ctor}': is not a member of 'AOphiuchusGameModeBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.h(15): note: see declaration of 'AOphiuchusGameModeBase'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.cpp(12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.cpp(14): error C4508: '{ctor}': function should return a value; 'void' return type assumed
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.cpp(15): error C2039: 'BeginPlay': is not a member of 'AOphiuchusGameModeBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.h(15): note: see declaration of 'AOphiuchusGameModeBase'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.cpp(16): error C2653: 'Super': is not a class or namespace name
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.cpp(18): error C3861: 'GetWorld': identifier not found
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.cpp(18): error C2039: 'StaticClass': is not a member of 'AEnemySpawn'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\EnemySpawn.h(12): note: see declaration of 'AEnemySpawn'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.cpp(18): error C2672: 'StaticClass': no matching overloaded function found
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.cpp(18): error C2783: 'UClass *StaticClass(void)': could not deduce template argument for 'ClassType'
+    D:\IDE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h(13): note: see declaration of 'StaticClass'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.cpp(22): error C2065: 'EnemySpawnPoints': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.cpp(25): error C3861: 'GetWorld': identifier not found
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.cpp(25): error C2065: 'TEnemySpawnHandle': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.cpp(25): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.cpp(25): error C2039: 'SpawnEnemy': is not a member of 'AOphiuchusGameModeBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.h(15): note: see declaration of 'AOphiuchusGameModeBase'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.cpp(25): error C2065: 'SpawnEnemy': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.cpp(27): error C2039: 'SpawnEnemy': is not a member of 'AOphiuchusGameModeBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.h(15): note: see declaration of 'AOphiuchusGameModeBase'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.cpp(28): error C2065: 'EnemySpawnPoints': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.cpp(28): error C2661: 'FMath::RandRange': no overloaded function takes 1 arguments
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.cpp(29): error C2065: 'EnemySpawnPoints': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.cpp(30): error C2027: use of undefined type 'AEnemySpawn'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\EnemySpawn.h(12): note: see declaration of 'AEnemySpawn'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.cpp(31): error C2027: use of undefined type 'AEnemySpawn'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\EnemySpawn.h(12): note: see declaration of 'AEnemySpawn'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.cpp(32): error C3861: 'GetWorld': identifier not found
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.cpp(32): error C2039: 'EnemyClass': is not a member of 'AOphiuchusGameModeBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.h(15): note: see declaration of 'AOphiuchusGameModeBase'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\OphiuchusGameModeBase.cpp(32): error C2065: 'EnemyClass': undeclared identifier
+    [19/28] OphiuchusGameModeBase.gen.cpp
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.generated.h(16): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.generated.h(17): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.generated.h(18): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.generated.h(19): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.generated.h(28): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.generated.h(37): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.generated.h(50): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.generated.h(61): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.generated.h(65): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.generated.h(66): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.generated.h(78): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameModeBase.h(14): error C2059: syntax error: 'user-defined literal'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameModeBase.h(15): error C2059: syntax error: 'public'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameModeBase.h(15): error C2143: syntax error: missing ';' before '{'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameModeBase.h(15): error C2447: '{': missing function header (old-style formal list?)
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(23): error C2039: 'StaticRegisterNativesAOphiuchusGameModeBase': is not a member of 'AOphiuchusGameModeBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameModeBase.h(15): note: see declaration of 'AOphiuchusGameModeBase'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(28): error C2039: 'StaticClass': is not a member of 'AOphiuchusGameModeBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameModeBase.h(15): note: see declaration of 'AOphiuchusGameModeBase'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(28): error C2672: 'StaticClass': no matching overloaded function found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(28): error C2783: 'UClass *StaticClass(void)': could not deduce template argument for 'ClassType'
+    D:\IDE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h(13): note: see declaration of 'StaticClass'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(63): error C2027: use of undefined type 'AOphiuchusGameModeBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameModeBase.h(15): note: see declaration of 'AOphiuchusGameModeBase'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(63): error C2618: illegal member designator in offsetof
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(63): note: offsetof has a builtin meaning; use /Zc:offsetof- to revert to old, non-conforming definition
+D:\IDE\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsAbstract.h(11): error C2139: 'AOphiuchusGameModeBase': an undefined class is not allowed as an argument to compiler intrinsic type trait '__is_abstract'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameModeBase.h(15): note: see declaration of 'AOphiuchusGameModeBase'
+    D:\IDE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/Class.h(2526): note: see reference to class template instantiation 'TIsAbstract<CPPCLASS>' being compiled
+            with
+            [
+                CPPCLASS=AOphiuchusGameModeBase
+            ]
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(68): note: see reference to class template instantiation 'TCppClassTypeTraits<AOphiuchusGameModeBase>' being compiled
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(71): error C2039: 'StaticClass': is not a member of 'AOphiuchusGameModeBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameModeBase.h(15): note: see declaration of 'AOphiuchusGameModeBase'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(71): error C2440: 'initializing': cannot convert from 'overloaded-function' to 'UClass *(__cdecl *)(void)'
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(71): note: None of the functions with this name in scope match the target type
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(94): error C2027: use of undefined type 'AOphiuchusGameModeBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameModeBase.h(15): note: see declaration of 'AOphiuchusGameModeBase'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(94): error C2039: 'GetPrivateStaticClass': is not a member of 'AOphiuchusGameModeBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameModeBase.h(15): note: see declaration of 'AOphiuchusGameModeBase'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(94): error C3861: 'StaticPackage': identifier not found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(94): error C2065: 'StaticClassFlags': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(94): error C2039: 'StaticClassFlags': is not a member of 'AOphiuchusGameModeBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameModeBase.h(15): note: see declaration of 'AOphiuchusGameModeBase'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(94): error C2039: 'StaticClassCastFlags': is not a member of 'AOphiuchusGameModeBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameModeBase.h(15): note: see declaration of 'AOphiuchusGameModeBase'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(94): error C3861: 'StaticClassCastFlags': identifier not found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(94): error C2039: 'StaticConfigName': is not a member of 'AOphiuchusGameModeBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameModeBase.h(15): note: see declaration of 'AOphiuchusGameModeBase'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(94): error C3861: 'StaticConfigName': identifier not found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(94): error C2039: 'AddReferencedObjects': is not a member of 'AOphiuchusGameModeBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameModeBase.h(15): note: see declaration of 'AOphiuchusGameModeBase'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(94): error C2065: 'AddReferencedObjects': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(94): error C3083: 'Super': the symbol to the left of a '::' must be a type
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(94): error C2039: 'StaticClass': is not a member of 'AOphiuchusGameModeBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameModeBase.h(15): note: see declaration of 'AOphiuchusGameModeBase'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(94): error C3083: 'WithinClass': the symbol to the left of a '::' must be a type
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(97): error C2039: 'StaticClass': is not a member of 'AOphiuchusGameModeBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameModeBase.h(15): note: see declaration of 'AOphiuchusGameModeBase'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(97): error C2672: 'StaticClass': no matching overloaded function found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(97): error C2783: 'UClass *StaticClass(void)': could not deduce template argument for 'ClassType'
+    D:\IDE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h(13): note: see declaration of 'StaticClass'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(99): error C2039: 'StaticClass': is not a member of 'AOphiuchusGameModeBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameModeBase.h(15): note: see declaration of 'AOphiuchusGameModeBase'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(99): error C2664: 'FCompiledInDefer::FCompiledInDefer(UClass *(__cdecl *)(void),UClass *(__cdecl *)(void),const TCHAR *,const TCHAR *,bool,const TCHAR *,const TCHAR *,void (__cdecl *)(TMap<FName,FName,FDefaultSetAllocator,TDefaultMapHashableKeyFuncs<KeyType,ValueType,false>> &))': cannot convert argument 2 from 'UClass *(__cdecl *)(void)' to 'UClass *(__cdecl *)(void)'
+            with
+            [
+                KeyType=FName,
+                ValueType=FName
+            ]
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(99): note: None of the functions with this name in scope match the target type
+    D:\IDE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBase.h(316): note: see declaration of 'FCompiledInDefer::FCompiledInDefer'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(100): error C2039: '{ctor}': is not a member of 'AOphiuchusGameModeBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameModeBase.h(15): note: see declaration of 'AOphiuchusGameModeBase'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(100): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(100): error C2550: '{ctor}': constructor initializer lists are only allowed on constructor definitions
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameModeBase.gen.cpp(100): error C4508: '{ctor}': function should return a value; 'void' return type assumed
+    [20/28] OphiuchusGameStateBase.gen.cpp
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.generated.h(16): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.generated.h(17): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.generated.h(18): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.generated.h(19): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.generated.h(28): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.generated.h(37): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.generated.h(50): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.generated.h(61): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.generated.h(62): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.generated.h(63): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.generated.h(75): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameStateBase.h(13): error C2059: syntax error: 'user-defined literal'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameStateBase.h(14): error C2059: syntax error: 'public'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameStateBase.h(14): error C2143: syntax error: missing ';' before '{'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameStateBase.h(14): error C2447: '{': missing function header (old-style formal list?)
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(21): error C2039: 'StaticRegisterNativesAOphiuchusGameStateBase': is not a member of 'AOphiuchusGameStateBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameStateBase.h(14): note: see declaration of 'AOphiuchusGameStateBase'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(26): error C2039: 'StaticClass': is not a member of 'AOphiuchusGameStateBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameStateBase.h(14): note: see declaration of 'AOphiuchusGameStateBase'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(26): error C2672: 'StaticClass': no matching overloaded function found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(26): error C2783: 'UClass *StaticClass(void)': could not deduce template argument for 'ClassType'
+    D:\IDE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h(13): note: see declaration of 'StaticClass'
+D:\IDE\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsAbstract.h(11): error C2139: 'AOphiuchusGameStateBase': an undefined class is not allowed as an argument to compiler intrinsic type trait '__is_abstract'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameStateBase.h(14): note: see declaration of 'AOphiuchusGameStateBase'
+    D:\IDE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/Class.h(2526): note: see reference to class template instantiation 'TIsAbstract<CPPCLASS>' being compiled
+            with
+            [
+                CPPCLASS=AOphiuchusGameStateBase
+            ]
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(51): note: see reference to class template instantiation 'TCppClassTypeTraits<AOphiuchusGameStateBase>' being compiled
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(54): error C2039: 'StaticClass': is not a member of 'AOphiuchusGameStateBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameStateBase.h(14): note: see declaration of 'AOphiuchusGameStateBase'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(54): error C2440: 'initializing': cannot convert from 'overloaded-function' to 'UClass *(__cdecl *)(void)'
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(54): note: None of the functions with this name in scope match the target type
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(77): error C2027: use of undefined type 'AOphiuchusGameStateBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameStateBase.h(14): note: see declaration of 'AOphiuchusGameStateBase'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(77): error C2039: 'GetPrivateStaticClass': is not a member of 'AOphiuchusGameStateBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameStateBase.h(14): note: see declaration of 'AOphiuchusGameStateBase'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(77): error C3861: 'StaticPackage': identifier not found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(77): error C2065: 'StaticClassFlags': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(77): error C2039: 'StaticClassFlags': is not a member of 'AOphiuchusGameStateBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameStateBase.h(14): note: see declaration of 'AOphiuchusGameStateBase'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(77): error C2039: 'StaticClassCastFlags': is not a member of 'AOphiuchusGameStateBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameStateBase.h(14): note: see declaration of 'AOphiuchusGameStateBase'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(77): error C3861: 'StaticClassCastFlags': identifier not found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(77): error C2039: 'StaticConfigName': is not a member of 'AOphiuchusGameStateBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameStateBase.h(14): note: see declaration of 'AOphiuchusGameStateBase'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(77): error C3861: 'StaticConfigName': identifier not found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(77): error C2039: 'AddReferencedObjects': is not a member of 'AOphiuchusGameStateBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameStateBase.h(14): note: see declaration of 'AOphiuchusGameStateBase'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(77): error C2065: 'AddReferencedObjects': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(77): error C3083: 'Super': the symbol to the left of a '::' must be a type
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(77): error C2039: 'StaticClass': is not a member of 'AOphiuchusGameStateBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameStateBase.h(14): note: see declaration of 'AOphiuchusGameStateBase'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(77): error C3083: 'WithinClass': the symbol to the left of a '::' must be a type
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(80): error C2039: 'StaticClass': is not a member of 'AOphiuchusGameStateBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameStateBase.h(14): note: see declaration of 'AOphiuchusGameStateBase'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(80): error C2672: 'StaticClass': no matching overloaded function found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(80): error C2783: 'UClass *StaticClass(void)': could not deduce template argument for 'ClassType'
+    D:\IDE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h(13): note: see declaration of 'StaticClass'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(82): error C2039: 'StaticClass': is not a member of 'AOphiuchusGameStateBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameStateBase.h(14): note: see declaration of 'AOphiuchusGameStateBase'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(82): error C2664: 'FCompiledInDefer::FCompiledInDefer(UClass *(__cdecl *)(void),UClass *(__cdecl *)(void),const TCHAR *,const TCHAR *,bool,const TCHAR *,const TCHAR *,void (__cdecl *)(TMap<FName,FName,FDefaultSetAllocator,TDefaultMapHashableKeyFuncs<KeyType,ValueType,false>> &))': cannot convert argument 2 from 'UClass *(__cdecl *)(void)' to 'UClass *(__cdecl *)(void)'
+            with
+            [
+                KeyType=FName,
+                ValueType=FName
+            ]
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(82): note: None of the functions with this name in scope match the target type
+    D:\IDE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBase.h(316): note: see declaration of 'FCompiledInDefer::FCompiledInDefer'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(83): error C2039: '{ctor}': is not a member of 'AOphiuchusGameStateBase'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/OphiuchusGameStateBase.h(14): note: see declaration of 'AOphiuchusGameStateBase'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(83): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(83): error C2550: '{ctor}': constructor initializer lists are only allowed on constructor definitions
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\OphiuchusGameStateBase.gen.cpp(83): error C4508: '{ctor}': function should return a value; 'void' return type assumed
+    [21/28] Projectile.gen.cpp
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.generated.h(19): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.generated.h(20): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.generated.h(25): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.generated.h(30): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.generated.h(39): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.generated.h(48): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.generated.h(61): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.generated.h(72): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.generated.h(73): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.generated.h(74): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.generated.h(86): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Projectile.h(13): error C2059: syntax error: 'user-defined literal'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Projectile.h(14): error C2059: syntax error: 'public'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Projectile.h(15): error C2143: syntax error: missing ';' before '{'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Projectile.h(15): error C2447: '{': missing function header (old-style formal list?)
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(26): error C2039: 'execOnHit': is not a member of 'AProjectile'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Projectile.h(14): note: see declaration of 'AProjectile'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(36): error C2065: 'ThisClass': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(36): error C2059: syntax error: ')'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(39): error C2039: 'StaticRegisterNativesAProjectile': is not a member of 'AProjectile'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Projectile.h(14): note: see declaration of 'AProjectile'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(41): error C2039: 'StaticClass': is not a member of 'AProjectile'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Projectile.h(14): note: see declaration of 'AProjectile'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(41): error C2672: 'StaticClass': no matching overloaded function found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(41): error C2783: 'UClass *StaticClass(void)': could not deduce template argument for 'ClassType'
+    D:\IDE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h(13): note: see declaration of 'StaticClass'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(43): error C2039: 'execOnHit': is not a member of 'AProjectile'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Projectile.h(14): note: see declaration of 'AProjectile'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(130): error C2039: 'StaticClass': is not a member of 'AProjectile'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Projectile.h(14): note: see declaration of 'AProjectile'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(130): error C2672: 'StaticClass': no matching overloaded function found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(130): error C2783: 'UClass *StaticClass(void)': could not deduce template argument for 'ClassType'
+    D:\IDE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h(13): note: see declaration of 'StaticClass'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(175): error C2027: use of undefined type 'AProjectile'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Projectile.h(14): note: see declaration of 'AProjectile'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(175): error C2618: illegal member designator in offsetof
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(175): note: offsetof has a builtin meaning; use /Zc:offsetof- to revert to old, non-conforming definition
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(183): error C2027: use of undefined type 'AProjectile'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Projectile.h(14): note: see declaration of 'AProjectile'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(183): error C2618: illegal member designator in offsetof
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(183): note: offsetof has a builtin meaning; use /Zc:offsetof- to revert to old, non-conforming definition
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(190): error C2027: use of undefined type 'AProjectile'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Projectile.h(14): note: see declaration of 'AProjectile'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(190): error C2618: illegal member designator in offsetof
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(190): note: offsetof has a builtin meaning; use /Zc:offsetof- to revert to old, non-conforming definition
+D:\IDE\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsAbstract.h(11): error C2139: 'AProjectile': an undefined class is not allowed as an argument to compiler intrinsic type trait '__is_abstract'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Projectile.h(14): note: see declaration of 'AProjectile'
+    D:\IDE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/Class.h(2526): note: see reference to class template instantiation 'TIsAbstract<CPPCLASS>' being compiled
+            with
+            [
+                CPPCLASS=AProjectile
+            ]
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(197): note: see reference to class template instantiation 'TCppClassTypeTraits<AProjectile>' being compiled
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(200): error C2039: 'StaticClass': is not a member of 'AProjectile'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Projectile.h(14): note: see declaration of 'AProjectile'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(200): error C2440: 'initializing': cannot convert from 'overloaded-function' to 'UClass *(__cdecl *)(void)'
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(200): note: None of the functions with this name in scope match the target type
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(223): error C2027: use of undefined type 'AProjectile'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Projectile.h(14): note: see declaration of 'AProjectile'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(223): error C2039: 'GetPrivateStaticClass': is not a member of 'AProjectile'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Projectile.h(14): note: see declaration of 'AProjectile'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(223): error C3861: 'StaticPackage': identifier not found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(223): error C2065: 'StaticClassFlags': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(223): error C2039: 'StaticClassFlags': is not a member of 'AProjectile'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Projectile.h(14): note: see declaration of 'AProjectile'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(223): error C2039: 'StaticClassCastFlags': is not a member of 'AProjectile'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Projectile.h(14): note: see declaration of 'AProjectile'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(223): error C3861: 'StaticClassCastFlags': identifier not found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(223): error C2039: 'StaticConfigName': is not a member of 'AProjectile'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Projectile.h(14): note: see declaration of 'AProjectile'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(223): error C3861: 'StaticConfigName': identifier not found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(223): error C2039: 'AddReferencedObjects': is not a member of 'AProjectile'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Projectile.h(14): note: see declaration of 'AProjectile'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(223): error C2065: 'AddReferencedObjects': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(223): error C3083: 'Super': the symbol to the left of a '::' must be a type
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(223): error C2039: 'StaticClass': is not a member of 'AProjectile'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Projectile.h(14): note: see declaration of 'AProjectile'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(223): error C3083: 'WithinClass': the symbol to the left of a '::' must be a type
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(226): error C2039: 'StaticClass': is not a member of 'AProjectile'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Projectile.h(14): note: see declaration of 'AProjectile'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(226): error C2672: 'StaticClass': no matching overloaded function found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(226): error C2783: 'UClass *StaticClass(void)': could not deduce template argument for 'ClassType'
+    D:\IDE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h(13): note: see declaration of 'StaticClass'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(228): error C2039: 'StaticClass': is not a member of 'AProjectile'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Projectile.h(14): note: see declaration of 'AProjectile'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(228): error C2664: 'FCompiledInDefer::FCompiledInDefer(UClass *(__cdecl *)(void),UClass *(__cdecl *)(void),const TCHAR *,const TCHAR *,bool,const TCHAR *,const TCHAR *,void (__cdecl *)(TMap<FName,FName,FDefaultSetAllocator,TDefaultMapHashableKeyFuncs<KeyType,ValueType,false>> &))': cannot convert argument 2 from 'UClass *(__cdecl *)(void)' to 'UClass *(__cdecl *)(void)'
+            with
+            [
+                KeyType=FName,
+                ValueType=FName
+            ]
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(228): note: None of the functions with this name in scope match the target type
+    D:\IDE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBase.h(316): note: see declaration of 'FCompiledInDefer::FCompiledInDefer'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(229): error C2039: '{ctor}': is not a member of 'AProjectile'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/Projectile.h(14): note: see declaration of 'AProjectile'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(229): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(229): error C2550: '{ctor}': constructor initializer lists are only allowed on constructor definitions
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\Projectile.gen.cpp(229): error C4508: '{ctor}': function should return a value; 'void' return type assumed
+    [22/28] SpaceMan.cpp
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.generated.h(16): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.generated.h(17): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.generated.h(18): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.generated.h(19): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.generated.h(28): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.generated.h(37): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.generated.h(50): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.generated.h(61): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.generated.h(62): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.generated.h(63): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.generated.h(75): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\SpaceMan.h(13): error C2059: syntax error: 'user-defined literal'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\SpaceMan.h(14): error C2059: syntax error: 'public'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\SpaceMan.h(15): error C2143: syntax error: missing ';' before '{'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\SpaceMan.h(15): error C2447: '{': missing function header (old-style formal list?)
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\SpaceMan.cpp(7): error C2039: '{ctor}': is not a member of 'ASpaceMan'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\SpaceMan.h(14): note: see declaration of 'ASpaceMan'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\SpaceMan.cpp(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\SpaceMan.cpp(10): error C2065: 'PrimaryActorTick': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\SpaceMan.cpp(12): error C4508: '{ctor}': function should return a value; 'void' return type assumed
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\SpaceMan.cpp(15): error C2039: 'BeginPlay': is not a member of 'ASpaceMan'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\SpaceMan.h(14): note: see declaration of 'ASpaceMan'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\SpaceMan.cpp(17): error C2653: 'Super': is not a class or namespace name
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\SpaceMan.cpp(19): error C2065: 'HUD_Widget_Class': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\SpaceMan.cpp(21): error C2065: 'HUD_Widget': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\SpaceMan.cpp(21): error C3861: 'GetWorld': identifier not found
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\SpaceMan.cpp(21): error C2065: 'HUD_Widget_Class': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\SpaceMan.cpp(22): error C2065: 'HUD_Widget': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\SpaceMan.cpp(30): error C2039: 'Tick': is not a member of 'ASpaceMan'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\SpaceMan.h(14): note: see declaration of 'ASpaceMan'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\SpaceMan.cpp(32): error C2653: 'Super': is not a class or namespace name
+    [23/28] HealthBar.cpp
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.generated.h(16): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.generated.h(17): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.generated.h(18): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.generated.h(19): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.generated.h(28): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.generated.h(37): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.generated.h(50): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.generated.h(63): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.generated.h(69): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.generated.h(70): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.generated.h(82): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\HealthBar.h(12): error C2059: syntax error: 'user-defined literal'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\HealthBar.h(13): error C2059: syntax error: 'public'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\HealthBar.h(14): error C2143: syntax error: missing ';' before '{'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus\HealthBar.h(14): error C2447: '{': missing function header (old-style formal list?)
+    [24/28] HealthBar.gen.cpp
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.generated.h(16): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.generated.h(17): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.generated.h(18): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.generated.h(19): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.generated.h(28): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.generated.h(37): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.generated.h(50): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.generated.h(63): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.generated.h(69): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.generated.h(70): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.generated.h(82): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/HealthBar.h(12): error C2059: syntax error: 'user-defined literal'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/HealthBar.h(13): error C2059: syntax error: 'public'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/HealthBar.h(14): error C2143: syntax error: missing ';' before '{'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/HealthBar.h(14): error C2447: '{': missing function header (old-style formal list?)
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(23): error C2039: 'StaticRegisterNativesUHealthBar': is not a member of 'UHealthBar'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/HealthBar.h(13): note: see declaration of 'UHealthBar'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(28): error C2039: 'StaticClass': is not a member of 'UHealthBar'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/HealthBar.h(13): note: see declaration of 'UHealthBar'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(28): error C2672: 'StaticClass': no matching overloaded function found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(28): error C2783: 'UClass *StaticClass(void)': could not deduce template argument for 'ClassType'
+    D:\IDE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h(13): note: see declaration of 'StaticClass'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(70): error C2027: use of undefined type 'UHealthBar'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/HealthBar.h(13): note: see declaration of 'UHealthBar'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(70): error C2618: illegal member designator in offsetof
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(70): note: offsetof has a builtin meaning; use /Zc:offsetof- to revert to old, non-conforming definition
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(78): error C2027: use of undefined type 'UHealthBar'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/HealthBar.h(13): note: see declaration of 'UHealthBar'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(78): error C2618: illegal member designator in offsetof
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(78): note: offsetof has a builtin meaning; use /Zc:offsetof- to revert to old, non-conforming definition
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(86): error C2027: use of undefined type 'UHealthBar'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/HealthBar.h(13): note: see declaration of 'UHealthBar'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(86): error C2618: illegal member designator in offsetof
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(86): note: offsetof has a builtin meaning; use /Zc:offsetof- to revert to old, non-conforming definition
+D:\IDE\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsAbstract.h(11): error C2139: 'UHealthBar': an undefined class is not allowed as an argument to compiler intrinsic type trait '__is_abstract'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/HealthBar.h(13): note: see declaration of 'UHealthBar'
+    D:\IDE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/Class.h(2526): note: see reference to class template instantiation 'TIsAbstract<CPPCLASS>' being compiled
+            with
+            [
+                CPPCLASS=UHealthBar
+            ]
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(93): note: see reference to class template instantiation 'TCppClassTypeTraits<UHealthBar>' being compiled
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(96): error C2039: 'StaticClass': is not a member of 'UHealthBar'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/HealthBar.h(13): note: see declaration of 'UHealthBar'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(96): error C2440: 'initializing': cannot convert from 'overloaded-function' to 'UClass *(__cdecl *)(void)'
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(96): note: None of the functions with this name in scope match the target type
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(119): error C2027: use of undefined type 'UHealthBar'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/HealthBar.h(13): note: see declaration of 'UHealthBar'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(119): error C2039: 'GetPrivateStaticClass': is not a member of 'UHealthBar'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/HealthBar.h(13): note: see declaration of 'UHealthBar'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(119): error C3861: 'StaticPackage': identifier not found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(119): error C2065: 'StaticClassFlags': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(119): error C2039: 'StaticClassFlags': is not a member of 'UHealthBar'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/HealthBar.h(13): note: see declaration of 'UHealthBar'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(119): error C2039: 'StaticClassCastFlags': is not a member of 'UHealthBar'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/HealthBar.h(13): note: see declaration of 'UHealthBar'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(119): error C3861: 'StaticClassCastFlags': identifier not found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(119): error C2039: 'StaticConfigName': is not a member of 'UHealthBar'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/HealthBar.h(13): note: see declaration of 'UHealthBar'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(119): error C3861: 'StaticConfigName': identifier not found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(119): error C2039: 'AddReferencedObjects': is not a member of 'UHealthBar'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/HealthBar.h(13): note: see declaration of 'UHealthBar'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(119): error C2065: 'AddReferencedObjects': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(119): error C3083: 'Super': the symbol to the left of a '::' must be a type
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(119): error C2039: 'StaticClass': is not a member of 'UHealthBar'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/HealthBar.h(13): note: see declaration of 'UHealthBar'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(119): error C3083: 'WithinClass': the symbol to the left of a '::' must be a type
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(122): error C2039: 'StaticClass': is not a member of 'UHealthBar'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/HealthBar.h(13): note: see declaration of 'UHealthBar'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(122): error C2672: 'StaticClass': no matching overloaded function found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(122): error C2783: 'UClass *StaticClass(void)': could not deduce template argument for 'ClassType'
+    D:\IDE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h(13): note: see declaration of 'StaticClass'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(124): error C2039: 'StaticClass': is not a member of 'UHealthBar'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/HealthBar.h(13): note: see declaration of 'UHealthBar'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(124): error C2664: 'FCompiledInDefer::FCompiledInDefer(UClass *(__cdecl *)(void),UClass *(__cdecl *)(void),const TCHAR *,const TCHAR *,bool,const TCHAR *,const TCHAR *,void (__cdecl *)(TMap<FName,FName,FDefaultSetAllocator,TDefaultMapHashableKeyFuncs<KeyType,ValueType,false>> &))': cannot convert argument 2 from 'UClass *(__cdecl *)(void)' to 'UClass *(__cdecl *)(void)'
+            with
+            [
+                KeyType=FName,
+                ValueType=FName
+            ]
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(124): note: None of the functions with this name in scope match the target type
+    D:\IDE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBase.h(316): note: see declaration of 'FCompiledInDefer::FCompiledInDefer'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(125): error C2039: '{ctor}': is not a member of 'UHealthBar'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/HealthBar.h(13): note: see declaration of 'UHealthBar'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(125): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(125): error C2550: '{ctor}': constructor initializer lists are only allowed on constructor definitions
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\HealthBar.gen.cpp(125): error C4508: '{ctor}': function should return a value; 'void' return type assumed
+    [25/28] SpaceMan.gen.cpp
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.generated.h(16): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.generated.h(17): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.generated.h(18): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.generated.h(19): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.generated.h(28): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.generated.h(37): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.generated.h(50): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.generated.h(61): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.generated.h(62): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.generated.h(63): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.generated.h(75): error C2007: #define syntax
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/SpaceMan.h(13): error C2059: syntax error: 'user-defined literal'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/SpaceMan.h(14): error C2059: syntax error: 'public'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/SpaceMan.h(15): error C2143: syntax error: missing ';' before '{'
+D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/SpaceMan.h(15): error C2447: '{': missing function header (old-style formal list?)
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(26): error C2039: 'StaticRegisterNativesASpaceMan': is not a member of 'ASpaceMan'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/SpaceMan.h(14): note: see declaration of 'ASpaceMan'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(31): error C2039: 'StaticClass': is not a member of 'ASpaceMan'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/SpaceMan.h(14): note: see declaration of 'ASpaceMan'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(31): error C2672: 'StaticClass': no matching overloaded function found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(31): error C2783: 'UClass *StaticClass(void)': could not deduce template argument for 'ClassType'
+    D:\IDE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h(13): note: see declaration of 'StaticClass'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(75): error C2027: use of undefined type 'ASpaceMan'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/SpaceMan.h(14): note: see declaration of 'ASpaceMan'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(75): error C2618: illegal member designator in offsetof
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(75): note: offsetof has a builtin meaning; use /Zc:offsetof- to revert to old, non-conforming definition
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(82): error C2027: use of undefined type 'ASpaceMan'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/SpaceMan.h(14): note: see declaration of 'ASpaceMan'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(82): error C2618: illegal member designator in offsetof
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(82): note: offsetof has a builtin meaning; use /Zc:offsetof- to revert to old, non-conforming definition
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(89): error C2027: use of undefined type 'ASpaceMan'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/SpaceMan.h(14): note: see declaration of 'ASpaceMan'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(89): error C2618: illegal member designator in offsetof
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(89): note: offsetof has a builtin meaning; use /Zc:offsetof- to revert to old, non-conforming definition
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(96): error C2027: use of undefined type 'ASpaceMan'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/SpaceMan.h(14): note: see declaration of 'ASpaceMan'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(96): error C2618: illegal member designator in offsetof
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(96): note: offsetof has a builtin meaning; use /Zc:offsetof- to revert to old, non-conforming definition
+D:\IDE\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsAbstract.h(11): error C2139: 'ASpaceMan': an undefined class is not allowed as an argument to compiler intrinsic type trait '__is_abstract'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/SpaceMan.h(14): note: see declaration of 'ASpaceMan'
+    D:\IDE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/Class.h(2526): note: see reference to class template instantiation 'TIsAbstract<CPPCLASS>' being compiled
+            with
+            [
+                CPPCLASS=ASpaceMan
+            ]
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(104): note: see reference to class template instantiation 'TCppClassTypeTraits<ASpaceMan>' being compiled
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(107): error C2039: 'StaticClass': is not a member of 'ASpaceMan'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/SpaceMan.h(14): note: see declaration of 'ASpaceMan'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(107): error C2440: 'initializing': cannot convert from 'overloaded-function' to 'UClass *(__cdecl *)(void)'
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(107): note: None of the functions with this name in scope match the target type
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(130): error C2027: use of undefined type 'ASpaceMan'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/SpaceMan.h(14): note: see declaration of 'ASpaceMan'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(130): error C2039: 'GetPrivateStaticClass': is not a member of 'ASpaceMan'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/SpaceMan.h(14): note: see declaration of 'ASpaceMan'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(130): error C3861: 'StaticPackage': identifier not found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(130): error C2065: 'StaticClassFlags': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(130): error C2039: 'StaticClassFlags': is not a member of 'ASpaceMan'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/SpaceMan.h(14): note: see declaration of 'ASpaceMan'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(130): error C2039: 'StaticClassCastFlags': is not a member of 'ASpaceMan'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/SpaceMan.h(14): note: see declaration of 'ASpaceMan'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(130): error C3861: 'StaticClassCastFlags': identifier not found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(130): error C2039: 'StaticConfigName': is not a member of 'ASpaceMan'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/SpaceMan.h(14): note: see declaration of 'ASpaceMan'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(130): error C3861: 'StaticConfigName': identifier not found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(130): error C2039: 'AddReferencedObjects': is not a member of 'ASpaceMan'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/SpaceMan.h(14): note: see declaration of 'ASpaceMan'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(130): error C2065: 'AddReferencedObjects': undeclared identifier
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(130): error C3083: 'Super': the symbol to the left of a '::' must be a type
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(130): error C2039: 'StaticClass': is not a member of 'ASpaceMan'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/SpaceMan.h(14): note: see declaration of 'ASpaceMan'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(130): error C3083: 'WithinClass': the symbol to the left of a '::' must be a type
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(133): error C2039: 'StaticClass': is not a member of 'ASpaceMan'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/SpaceMan.h(14): note: see declaration of 'ASpaceMan'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(133): error C2672: 'StaticClass': no matching overloaded function found
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(133): error C2783: 'UClass *StaticClass(void)': could not deduce template argument for 'ClassType'
+    D:\IDE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h(13): note: see declaration of 'StaticClass'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(135): error C2039: 'StaticClass': is not a member of 'ASpaceMan'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/SpaceMan.h(14): note: see declaration of 'ASpaceMan'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(135): error C2664: 'FCompiledInDefer::FCompiledInDefer(UClass *(__cdecl *)(void),UClass *(__cdecl *)(void),const TCHAR *,const TCHAR *,bool,const TCHAR *,const TCHAR *,void (__cdecl *)(TMap<FName,FName,FDefaultSetAllocator,TDefaultMapHashableKeyFuncs<KeyType,ValueType,false>> &))': cannot convert argument 2 from 'UClass *(__cdecl *)(void)' to 'UClass *(__cdecl *)(void)'
+            with
+            [
+                KeyType=FName,
+                ValueType=FName
+            ]
+    D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(135): note: None of the functions with this name in scope match the target type
+    D:\IDE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBase.h(316): note: see declaration of 'FCompiledInDefer::FCompiledInDefer'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(136): error C2039: '{ctor}': is not a member of 'ASpaceMan'
+    D:\Schoolwork\Capstone\2-Dimensional\Source\Ophiuchus/SpaceMan.h(14): note: see declaration of 'ASpaceMan'
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(136): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(136): error C2550: '{ctor}': constructor initializer lists are only allowed on constructor definitions
+D:\Schoolwork\Capstone\2-Dimensional\Intermediate\Build\Win64\UE4Editor\Inc\Ophiuchus\SpaceMan.gen.cpp(136): error C4508: '{ctor}': function should return a value; 'void' return type assumed
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(45,5): error MSB3073: The command "D:\IDE\UE_4.27\Engine\Build\BatchFiles\Build.bat OphiuchusEditor Win64 Development -Project="D:\Schoolwork\Capstone\2-Dimensional\Ophiuchus.uproject" -WaitMutex -FromMsBuild" exited with code 6.
