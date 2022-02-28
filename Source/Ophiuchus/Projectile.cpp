@@ -20,12 +20,12 @@ AProjectile::AProjectile()
 	ProjectileMovement =
 		CreateDefaultSubobject<UProjectileMovementComponent>(TEXT("Projectile Movement"));
 	ProjectileMovement->UpdatedComponent = CollisionSphere;
-	ProjectileMovement->InitialSpeed = 300.0f;
-	ProjectileMovement->MaxSpeed = 300.0f;
+	ProjectileMovement->InitialSpeed = 600.0f;
+	ProjectileMovement->MaxSpeed = 600.0f;
 	ProjectileMovement->bRotationFollowsVelocity = true;
-	ProjectileMovement->bShouldBounce = true;
+	ProjectileMovement->bShouldBounce = false;
 
-	InitialLifeSpan = 3.0f;
+	InitialLifeSpan = 0.5f;
 
 
 }

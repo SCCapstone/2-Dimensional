@@ -9,7 +9,6 @@
 
 #include "SpaceMan.generated.h"
 
-
 UCLASS()
 class OPHIUCHUS_API ASpaceMan : public AActor
 {
@@ -31,6 +30,9 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
+
+public:
+
 	UPROPERTY(EditDefaultsOnly, Category = Projectile)
 		TSubclassOf<class AProjectile> Projectile;
 
@@ -47,6 +49,4 @@ public:
 	FRotator SpawnRotation;
 
 	FVector SpawnLocation;
-
-	
 };

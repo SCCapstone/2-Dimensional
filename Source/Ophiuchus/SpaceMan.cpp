@@ -2,6 +2,10 @@
 
 
 #include "SpaceMan.h"
+#include "Projectile.h"
+#include "Animation/AnimInstance.h"
+#include "OphiuchusGameModeBase.h"
+#include "Kismet/GameplayStatics.h"
 
 // Sets default values
 ASpaceMan::ASpaceMan()

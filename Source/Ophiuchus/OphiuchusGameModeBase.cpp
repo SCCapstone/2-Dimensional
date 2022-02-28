@@ -25,6 +25,7 @@ void AOphiuchusGameModeBase::BeginPlay() {
 		}
 	}
 	GetWorld()->GetTimerManager().SetTimer(TEnemySpawnHandle, this, &AOphiuchusGameModeBase::SpawnEnemy, 2.0f, true);
+	UE_LOG(LogTemp, Warning, TEXT("SpawnNum: %d"), EnemySpawnPoints.Num());
 }
 void AOphiuchusGameModeBase::SpawnEnemy() {
 	int randIndex = FMath::RandRange(0, EnemySpawnPoints.Num() - 1);
