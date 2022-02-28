@@ -1,5 +1,4 @@
 // Fill out your copyright notice in the Description page of Project Settings.
-//Samuel Bunker: Creates class for our flipbook version of the alien enemy. This character utilizes the AI for chasing the player.
 
 
 #include "FlipBook_Alien.h"
