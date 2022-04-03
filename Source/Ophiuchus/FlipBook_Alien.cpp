@@ -1,10 +1,9 @@
-// Samuel Bunker 
-// Cpp file corresponding to chase aliens
+// Fill out your copyright notice in the Description page of Project Settings.
 
 
 #include "FlipBook_Alien.h"
 
-#include "EnemySpawn.h"
+#include "AlienSpawn.h"
 
 // Sets default values
 AFlipBook_Alien::AFlipBook_Alien() {

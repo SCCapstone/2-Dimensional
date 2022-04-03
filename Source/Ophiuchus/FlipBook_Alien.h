@@ -4,7 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "PaperCharacter.h"
-#include "EnemySpawn.h"
+#include "AlienSpawn.h"
 #include "FlipBook_Alien.generated.h"
 
 /**

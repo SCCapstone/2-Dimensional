@@ -8,9 +8,7 @@
 #include "GameFramework/GameModeBase.h"
 #include "OphiuchusGameModeBase.generated.h"
 
-/**
- * 
- */
+
 UCLASS()
 class OPHIUCHUS_API AOphiuchusGameModeBase : public AGameModeBase {
 	GENERATED_BODY()
@@ -18,13 +16,19 @@ public:
 	AOphiuchusGameModeBase();
 protected:
 	TArray<class AEnemySpawn*> EnemySpawnPoints;
+	TArray<class AAlienSpawn*> AlienSpawnPoints;
 	UPROPERTY(EditAnywhere, Category = "EnemySettings")
 		TSubclassOf<class AEnemy> EnemyClass;
 
+	UPROPERTY(EditAnywhere, Category = "FlipBook_AlienSettings")
+		TSubclassOf<class AFlipBook_Alien> AlienClass;
+
 	FTimerHandle TEnemySpawnHandle;
+	FTimerHandle TAlienSpawnHandle;
 
 protected:
 	void SpawnEnemy();
+	void SpawnAlien();
 protected:
 	virtual void BeginPlay() override;
 
