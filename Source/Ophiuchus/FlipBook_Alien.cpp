@@ -1,5 +1,4 @@
-// Samuel Bunker 
-// Cpp file corresponding to chase aliens
+// Fill out your copyright notice in the Description page of Project Settings.
 
 
 #include "FlipBook_Alien.h"

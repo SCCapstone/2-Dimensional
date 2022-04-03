@@ -2,14 +2,29 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "SlateBasics.h"
+#include "SlateExtras.h"
 
 /**
  * 
  */
-class OPHIUCHUS_API SMainMenuWidget
+class SMainMenuWidget : public SCompoundWidget
 {
 public:
-	SMainMenuWidget();
-	~SMainMenuWidget();
+
+	SLATE_BEGIN_ARGS(SMainMenuWidget) {}
+
+	SLATE_ARGUMENT(TWeakObjectPtr<class HealthBar>, OwningHUD)
+
+	SLATE_END_ARGS()
+	//constructor
+	void Construct(const FArgument& InArgs);
+
+	FReply OnPlayClicked() const;
+	FReply OnQuitClicked() const;
+	
+	//created widget
+	TWeakObjectPtr<class HealthBar>, OwningHUD;
+
+	virtual bool SupportsKeyboardFocus() const override { return true; };
 };
