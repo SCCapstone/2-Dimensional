@@ -1,4 +1,7 @@
- 
+# OPHIUCHUS
+
+This is a sci-fi themed arcade style game built in a two dimensional setting. As the "Space Man", you are tasked with destroying aggressive aliens who have boarded your ship looking to kill you. You must destroy them and their eggs as quickly as possible!
+
 
 # 2-Dimensional
 
@@ -58,7 +61,6 @@ None yet.
 
 Samuel Bunker: sbunker@email.sc.edu & spbunker10@gmail.com
 Max Coughty: coughm66@gmail.com & coughtry@email.sc.edu
-Josh Sykes: jksykes@email.sc.edu
 Noah Snell: 
 Jonathan Duong: 
 
