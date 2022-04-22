@@ -7,6 +7,10 @@ the player is on board a ship in space and has to survive against aliens that bo
 levels, and there will be boss enemies that continue the progression of the game. There will also be puzzles, items, and 
 upgrades that the player will be able to enjoy.
 
+## Download
+
+https://github.com/SCCapstone/2-Dimensional/releases/tag/v0.9.1
+
 ## External Requirments
 
 This will run off the UE4 (Unreal Engine 4) game engine.
