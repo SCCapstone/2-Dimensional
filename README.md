@@ -14,9 +14,9 @@ After extracting, the file containing the .exe is called "WindowsNoEditor".
 Do not delete any files in this folder after extracting, they are all necessary to run the game.
 When the .zip is extracted to a location of your choice, click on the "Ophiuchus.exe" to play the game. 
 
-## Game Demo
+## Game Demo Video
 
-Unavailable
+![image](https://user-images.githubusercontent.com/89282408/164578694-95b367a9-65a5-4104-8922-0c9f0f6a8c60.png)
 
 ## Interesting Screenshots
 
