@@ -2,6 +2,30 @@
 
 This is a sci-fi themed arcade style game built in a two dimensional setting. As the "Space Man", you are tasked with destroying aggressive aliens who have boarded your ship looking to kill you. You must destroy them and their eggs as quickly as possible!
 
+We wanted to create this game as an outlet for all levels of gamers. Ophiuchus allows the user to experience a fast-paced, arcade style game. Older demographics will hopefully experience some nostalgia as a result of our chosen style, while the newer generation will be able to decompress from other events, as this is a "cool-down" type of game. 
+
+
+## Download
+
+https://github.com/SCCapstone/2-Dimensional/releases/tag/v0.9.1
+
+Only the contents of the OphiuchusV0.9.1 compressed file are necessary.
+After extracting, the file containing the .exe is called "WindowsNoEditor".
+Do not delete any files in this folder after extracting, they are all necessary to run the game.
+When the .zip is extracted to a location of your choice, click on the "Ophiuchus.exe" to play the game. 
+
+## Game Demo
+
+Unavailable
+
+## Interesting Screenshots
+
+![image](https://user-images.githubusercontent.com/89282408/164577204-0ad748bf-646a-45e3-bd23-774b04c67a19.png)
+![image](https://user-images.githubusercontent.com/89282408/164577024-23da61a2-9bac-4e1a-bf14-58f799d1e661.png)
+![image](https://user-images.githubusercontent.com/89282408/164577184-9d37ba3b-c524-4834-bcf1-4e18d03ef2bb.png)
+![image](https://user-images.githubusercontent.com/89282408/164577424-a5e8e1b3-2556-4996-9a22-6067bc68b3e4.png)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 2-Dimensional
 
@@ -9,18 +33,6 @@ This is the Readme file for the 2D-video game we will be creating. This game wil
 the player is on board a ship in space and has to survive against aliens that board the ship. The game will include multiple
 levels, and there will be boss enemies that continue the progression of the game. There will also be puzzles, items, and 
 upgrades that the player will be able to enjoy.
-
-## Download
-
-https://github.com/SCCapstone/2-Dimensional/releases/tag/v0.9.1
-
-## Game Demo
-
-
-## Interesting Screenshots
-
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## External Requirments
 
