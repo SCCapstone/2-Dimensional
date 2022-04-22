@@ -33,7 +33,8 @@ Max Coughty: coughm66@gmail.com & coughtry@email.sc.edu
 
 Noah Snell: noah.a.snell@gmail.com
 
-Jonathan Duong: jduong@email.sc.edu
+Jonathon Duong: jduong@gmail.sc.edu
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 2-Dimensional
