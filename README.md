@@ -28,8 +28,11 @@ When the .zip is extracted to a location of your choice, click on the "Ophiuchus
 ## Authors
 
 Samuel Bunker: sbunker@email.sc.edu & spbunker10@gmail.com
+
 Max Coughty: coughm66@gmail.com & coughtry@email.sc.edu
+
 Noah Snell: noah.a.snell@gmail.com
+
 Jonathan Duong: jduong@email.sc.edu
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
