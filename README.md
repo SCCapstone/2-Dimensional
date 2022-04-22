@@ -25,6 +25,12 @@ When the .zip is extracted to a location of your choice, click on the "Ophiuchus
 ![image](https://user-images.githubusercontent.com/89282408/164577184-9d37ba3b-c524-4834-bcf1-4e18d03ef2bb.png)
 ![image](https://user-images.githubusercontent.com/89282408/164577424-a5e8e1b3-2556-4996-9a22-6067bc68b3e4.png)
 
+## Authors
+
+Samuel Bunker: sbunker@email.sc.edu & spbunker10@gmail.com
+Max Coughty: coughm66@gmail.com & coughtry@email.sc.edu
+Noah Snell: noah.a.snell@gmail.com
+Jonathan Duong: jduong@email.sc.edu
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 2-Dimensional
@@ -76,13 +82,6 @@ None yet.
 ## Running Tests
 
 None yet.
-
-## Authors
-
-Samuel Bunker: sbunker@email.sc.edu & spbunker10@gmail.com
-Max Coughty: coughm66@gmail.com & coughtry@email.sc.edu
-Noah Snell: 
-Jonathan Duong: 
 
 ## Coding Style
 
