@@ -5,11 +5,13 @@
 #include "OphiuchusGameModeBase.h"
 #include "EnemySpawn.h"
 #include "AlienSpawn.h"
+#include "HealthSpawn.h"
 #include "Kismet/GameplayStatics.h"
 #include "TimerManager.h"
 #include "UObject/ConstructorHelpers.h"
 #include "Enemy.h"
 #include "FlipBook_Alien.h"
+#include "HealthPack_Actor.h"
 
 AOphiuchusGameModeBase::AOphiuchusGameModeBase() {
 
@@ -20,8 +22,10 @@ void AOphiuchusGameModeBase::BeginPlay() {
 	Super::BeginPlay();
 	TArray<AActor*> TempActors;
 	TArray<AActor*> TempAliens;
+	TArray<AActor*> TempHealthPacks;
 	UGameplayStatics::GetAllActorsOfClass(GetWorld(), AEnemySpawn::StaticClass(), TempActors);
 	UGameplayStatics::GetAllActorsOfClass(GetWorld(), AAlienSpawn::StaticClass(), TempAliens);
+	UGameplayStatics::GetAllActorsOfClass(GetWorld(), AHealthSpawn::StaticClass(), TempHealthPacks);
 
 	for (AActor* Actor : TempActors) {
 		if (AEnemySpawn* SpawnPoint = Cast<AEnemySpawn>(Actor)) {
@@ -33,10 +37,17 @@ void AOphiuchusGameModeBase::BeginPlay() {
 			AlienSpawnPoints.Add(SpawnPoint);
 		}
 	}
+	for (AActor* Actor : TempHealthPacks) {
+		if (AHealthSpawn* SpawnPoint = Cast<AHealthSpawn>(Actor)) {
+			HealthPackSpawnPoints.Add(SpawnPoint);
+		}
+	}
 	GetWorld()->GetTimerManager().SetTimer(TEnemySpawnHandle, this, &AOphiuchusGameModeBase::SpawnEnemy, 2.0f, true);
 	GetWorld()->GetTimerManager().SetTimer(TAlienSpawnHandle, this, &AOphiuchusGameModeBase::SpawnAlien, 2.0f, true);
+	GetWorld()->GetTimerManager().SetTimer(THealthPackSpawnHandle, this, &AOphiuchusGameModeBase::SpawnHealthPack, 2.0f, true);
 	UE_LOG(LogTemp, Warning, TEXT("SpawnNum: %d"), EnemySpawnPoints.Num());
 	UE_LOG(LogTemp, Warning, TEXT("AlienSpawnNum: %d"), AlienSpawnPoints.Num());
+	UE_LOG(LogTemp, Warning, TEXT("HealthpackSpawnNum: %d"), HealthPackSpawnPoints.Num());
 }
 void AOphiuchusGameModeBase::SpawnEnemy() {
 	int randIndex = FMath::RandRange(0, EnemySpawnPoints.Num() - 1);
@@ -64,6 +75,18 @@ void AOphiuchusGameModeBase::SpawnAlien() {
 			UE_LOG(LogTemp, Warning, TEXT("Alien Did Not Spawn!"));
 		}
 	}
-
+}
+void AOphiuchusGameModeBase::SpawnHealthPack() {
+	int randIndex = FMath::RandRange(0, HealthPackSpawnPoints.Num() - 1);
+	if (AHealthSpawn* SpawnPoint = HealthPackSpawnPoints[randIndex]) {
+		FVector Loc = SpawnPoint->GetActorLocation();
+		FRotator Rot = SpawnPoint->GetActorRotation();
+		if (AHealthPack_Actor* HealthPack = GetWorld()->SpawnActor<AHealthPack_Actor>(AOphiuchusGameModeBase::HealthPackClass, Loc, Rot)) {
+			UE_LOG(LogTemp, Warning, TEXT("Health Pack Spawning!"));
+		}
+		else {
+			UE_LOG(LogTemp, Warning, TEXT("Health Pack Did Not Spawn!"));
+		}
+	}
 }
 

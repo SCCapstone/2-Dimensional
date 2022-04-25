@@ -17,18 +17,24 @@ public:
 protected:
 	TArray<class AEnemySpawn*> EnemySpawnPoints;
 	TArray<class AAlienSpawn*> AlienSpawnPoints;
+	TArray<class AHealthSpawn*> HealthPackSpawnPoints;
 	UPROPERTY(EditAnywhere, Category = "EnemySettings")
 		TSubclassOf<class AEnemy> EnemyClass;
 
 	UPROPERTY(EditAnywhere, Category = "FlipBook_AlienSettings")
 		TSubclassOf<class AFlipBook_Alien> AlienClass;
 
+	UPROPERTY(EditAnywhere, Category = "HealthPackSettings")
+		TSubclassOf<class AHealthPack_Actor> HealthPackClass;
+
 	FTimerHandle TEnemySpawnHandle;
 	FTimerHandle TAlienSpawnHandle;
+	FTimerHandle THealthPackSpawnHandle;
 
 protected:
 	void SpawnEnemy();
 	void SpawnAlien();
+	void SpawnHealthPack();
 protected:
 	virtual void BeginPlay() override;
 
