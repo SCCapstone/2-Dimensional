@@ -16,7 +16,7 @@ When the .zip is extracted to a location of your choice, click on the "Ophiuchus
 
 ## Game Demo Video
 
-![image](https://user-images.githubusercontent.com/89282408/164578694-95b367a9-65a5-4104-8922-0c9f0f6a8c60.png)
+https://youtu.be/JlbF8t5EMHo
 
 ## Interesting Screenshots
 
