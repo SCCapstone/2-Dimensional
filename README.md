@@ -56,7 +56,7 @@ No one time run things required. These will not be an issue in UE4.
 
 ## Running
 
-To run the project, set you default project path in unreal engine to the cloned repo. The project can then be opened in unreal from the repository. The project can be previewed within UE4 by clicking the "play" button. 
+To run the project, set you default project path in unreal engine to the cloned repo. The project can then be opened in unreal from the repository. The project can be previewed within UE4 by clicking the "play" button. Alternatively, the game can be played by running the executable files in the "Releases" tab on GitHub.com.
 
 ## Deployment
 
@@ -77,7 +77,7 @@ The new map and new player controller are coded 'specifically' for the test.
 
 Unit Testing:
 
-The most important unit test as of 1/31/22 tests to make sure that the program successfully spawns in an enemy sprite into the game and will push flags to the output log depending on whether this action was completed correctly. This test is located in Source/Ophiuchus/OphiuchusGameModeBase.cpp. To view this test, the Unreal Engine must be installed on version 4.27 or later. The contents of the main branch on this repository must also be accessible locally. Within Unreal Engine, open the Ophiuchus.uproject file to run the program. When the IDE is open and showing the current project, navigate to Content/Maps/NewMap.umap and open this file. Click the play button on the top-middle of the screen to preview the program. While the program is running, the output log will show flags determining if the enemies are spawning in correctly. 
+The unit tests are put into the project to make sure that the program successfully spawns characters and actors into the game and will push flags to the output log depending on whether this action was completed correctly. These tests are located in Source/Ophiuchus/OphiuchusGameModeBase.cpp. To view the tests, the Unreal Engine must be installed on version 4.27 or later. The contents of the main branch on this repository must also be accessible locally. Within Unreal Engine, open the Ophiuchus.uproject file to run the program. When the IDE is open and showing the current project, navigate to Content/Maps/NewMap.umap and open this file. Click the play button on the top-middle of the screen to preview the program. While the program is running, the output log will show flags determining if character are spawning in correctly. 
 
 ## Testing Technology
 
