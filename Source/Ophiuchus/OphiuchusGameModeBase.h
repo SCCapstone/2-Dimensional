@@ -1,4 +1,4 @@
-// Samuel Bunker 2-Dimensional CSCE 490 Ophiuchus
+// Samuel Bunker 2-Dimensional CSCE 492 Ophiuchus
 // This is the header file for the game mode. It creates a sub-class for enemy which the spawn enemy function takes in and initializes a timing variable
 // which is used in the spawn function.
 
@@ -15,6 +15,7 @@ class OPHIUCHUS_API AOphiuchusGameModeBase : public AGameModeBase {
 public:
 	AOphiuchusGameModeBase();
 protected:
+	//Protected objects that are used in main file
 	TArray<class AEnemySpawn*> EnemySpawnPoints;
 	TArray<class AAlienSpawn*> AlienSpawnPoints;
 	TArray<class AHealthSpawn*> HealthPackSpawnPoints;
@@ -27,11 +28,13 @@ protected:
 	UPROPERTY(EditAnywhere, Category = "HealthPackSettings")
 		TSubclassOf<class AHealthPack_Actor> HealthPackClass;
 
+	//Timer for spawning
 	FTimerHandle TEnemySpawnHandle;
 	FTimerHandle TAlienSpawnHandle;
 	FTimerHandle THealthPackSpawnHandle;
 
 protected:
+	//Function declarations
 	void SpawnEnemy();
 	void SpawnAlien();
 	void SpawnHealthPack();
